@@ -14,3 +14,12 @@
         1、processed -> 已处理csv文件
         2、untreated -> 未处理csv文件
     2）exl_file -> 处理后excel
+
+
+ #### git: 
+    # https://docs.github.com/zh
+    1）git clone https://github.com/c-emo/ipython.git
+    2）cd ipython
+    3）git add .
+    4）git commit -m "提交信息"
+    5）git push -u origin mian
