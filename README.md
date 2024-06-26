@@ -1,6 +1,12 @@
 # ipython
 基于百度、高德、腾讯地图api获取指定地区设施 
 
+ #### python环境配置：
+
+    1）python3.12.4 # https://www.python.org/downloads/
+    2）pip # python -m ensurepip --upgrade
+    3）pip install requests pandas 
+
 
  #### 文件:
 
