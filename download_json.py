@@ -1,22 +1,7 @@
 import requests
-import csv
-import time
+import json
 import os
-
-def save_to_csv(file_path, data, fieldnames):
-    with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        for row in data:
-            writer.writerow({
-                'name': row.get('name', ''),
-                'address': row.get('address', ''),
-                'province': row.get('province', ''),
-                'city': row.get('city', ''),
-                'area': row.get('area', ''),
-                'telephone': row.get('telephone', ''),
-                'tag': row.get('detail_info', {}).get('tag', ''),
-            })
+import time
 
 def baidu_map_search(region, key):
     apk_key = "IVKytPOUvPgnV1IZIZDHgS0iBtKCndNp"
@@ -58,9 +43,19 @@ def baidu_map_search(region, key):
 
     return all_results
 
+def save_results_to_json(base_dir, region, key, results):
+    # 创建以 region 命名的文件夹
+    region_dir = os.path.join(base_dir, region)
+    os.makedirs(region_dir, exist_ok=True)
+    
+    # 保存结果到 JSON 文件
+    json_file = os.path.join(region_dir, f"{key}.json")
+    with open(json_file, 'w', encoding='utf-8') as f:
+        json.dump(results, f, ensure_ascii=False, indent=4)
+
 if __name__ == '__main__':
     base_dir = "csv/untreated"  # 修改为实际的根目录路径
-    regions = ["广州市"]  # 要查询的城市
+    regions = ["珠海市"]  # 要查询的城市
     keys = ["舞蹈", "钢琴", "古筝", "美术", "书法", "口才"]  # 要查询的多个关键字
     
     for region in regions:
@@ -68,16 +63,8 @@ if __name__ == '__main__':
             print(f"region: {region}, key: {key}")
             try:
                 results = baidu_map_search(region, key)
-
-                # 创建以 region 命名的文件夹
-                region_dir = os.path.join(base_dir, region)
-                os.makedirs(region_dir, exist_ok=True)
-
-                csv_file = os.path.join(region_dir, f"{key}.csv")
-                fieldnames = ['name', 'address', 'province', 'city', 'area', 'telephone', 'tag']
-                save_to_csv(csv_file, results, fieldnames)
-
-                print(f"Data saved to {csv_file}")
+                save_results_to_json(base_dir, region, key, results)
+                print(f"Data saved to {os.path.join(base_dir, region, key)}.json")
             except Exception as e:
                 print(f"An error occurred for keyword '{key}': {e}")
             print("====================")
