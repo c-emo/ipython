@@ -1,0 +1,266 @@
+[
+    {
+        "name": "国韵古筝书法",
+        "location": {
+            "lat": 22.277742,
+            "lng": 113.553925
+        },
+        "address": "广东省珠海市香洲区同华路37号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "689c69f0ab057ab176e5b66d",
+        "telephone": "13702311853",
+        "detail": 1,
+        "uid": "689c69f0ab057ab176e5b66d",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55390162847,
+                "lat": 22.277856603909
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=689c69f0ab057ab176e5b66d&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "2",
+            "shop_hours": "10:00-20:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "百家筝鸣古筝艺术中心",
+        "location": {
+            "lat": 22.270537,
+            "lng": 113.563796
+        },
+        "address": "广东省珠海市香洲区柠溪路282号天邦大厦F2",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "(0756)2288950,13532256662",
+        "detail": 1,
+        "uid": "7e770d92ed3b2fef6fa3ccc4",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56401869259,
+                "lat": 22.270649704178
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7e770d92ed3b2fef6fa3ccc4&output=html&source=placeapi_v2",
+            "overall_rating": "3.4",
+            "comment_num": "1",
+            "shop_hours": "09:30-20:00",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "460717d9285272df5d17c3f4"
+        }
+    },
+    {
+        "name": "聚星古筝",
+        "location": {
+            "lat": 22.206425,
+            "lng": 113.304114
+        },
+        "address": "广东省珠海市斗门区井湾路347号时尚新苑2栋109",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "(0756)5119638,13750073737",
+        "detail": 1,
+        "uid": "1db28376e2e6924e0bccdd9c",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.3042131885,
+                "lat": 22.206231322274
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1db28376e2e6924e0bccdd9c&output=html&source=placeapi_v2",
+            "shop_hours": "14:00-21:00",
+            "label": "培训机构",
+            "children": [],
+            "parent_id": "27937d498852ac7d9e9d681a"
+        }
+    },
+    {
+        "name": "迎筝坊古筝(斗门店)",
+        "location": {
+            "lat": 22.239364,
+            "lng": 113.203549
+        },
+        "address": "广东省珠海市斗门区斗门镇兴门路1号二楼左边",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "8919225f7c2c5ab7c9fa5f3b",
+        "telephone": "18590142010",
+        "detail": 1,
+        "uid": "8919225f7c2c5ab7c9fa5f3b",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=8919225f7c2c5ab7c9fa5f3b&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "李老师古筝艺术中心(南村分店)",
+        "location": {
+            "lat": 22.277693,
+            "lng": 113.553637
+        },
+        "address": "广东省珠海市香洲区同华路45号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "7224509735baae0e8b2fb5dc",
+        "telephone": "13411452919",
+        "detail": 1,
+        "uid": "7224509735baae0e8b2fb5dc",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55361368492,
+                "lat": 22.277801680638
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7224509735baae0e8b2fb5dc&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "炫中古筝专卖店",
+        "location": {
+            "lat": 22.243676,
+            "lng": 113.541803
+        },
+        "address": "珠海市香洲区永安三巷16号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13527272936",
+        "detail": 1,
+        "uid": "c0eba9bdcdf63fcad8d8912c",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.54159930547,
+                "lat": 22.243670775618
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c0eba9bdcdf63fcad8d8912c&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "筝韵古筝艺术培训",
+        "location": {
+            "lat": 22.180911,
+            "lng": 113.288538
+        },
+        "address": "珠海市斗门区贵乾路新堂城市商业广场西侧约50米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "b4bc43f41bb58368902ca3ad",
+        "telephone": "15916301168",
+        "detail": 1,
+        "uid": "b4bc43f41bb58368902ca3ad",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.28847778638,
+                "lat": 22.180867123427
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=b4bc43f41bb58368902ca3ad&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-20:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "墨子古筝工作室",
+        "location": {
+            "lat": 22.262865,
+            "lng": 113.560322
+        },
+        "address": "广东省珠海市香洲区富柠街85号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13431907231",
+        "detail": 1,
+        "uid": "f24ecaac99c4ab9cb45f1e29",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f24ecaac99c4ab9cb45f1e29&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "古筝文化艺术中心",
+        "location": {
+            "lat": 22.142219,
+            "lng": 113.351349
+        },
+        "address": "珠海市金湾区文华路梅雁大厦",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "telephone": "13727897167",
+        "detail": 1,
+        "uid": "9dd4f79363b3a2d2a2a934fe",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.3513011315,
+                "lat": 22.141998078265
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=9dd4f79363b3a2d2a2a934fe&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市古筝协会",
+        "location": {
+            "lat": 22.266292,
+            "lng": 113.536842
+        },
+        "address": "珠海市香洲区翠仙街19号盛和苑1层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "d81c3ac4c4fe72705abbbcef",
+        "detail": 1,
+        "uid": "d81c3ac4c4fe72705abbbcef",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.53682866968,
+                "lat": 22.266469416926
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=d81c3ac4c4fe72705abbbcef&output=html&source=placeapi_v2",
+            "image_num": "2",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    }
+]

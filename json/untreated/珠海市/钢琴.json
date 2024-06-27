@@ -1,0 +1,2439 @@
+[
+    {
+        "name": "琴朝乐器(香洲柠溪店)",
+        "location": {
+            "lat": 22.275052,
+            "lng": 113.567704
+        },
+        "address": "广东省珠海市香洲区柠溪路551号(南香里巴士站旁)",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "96ad828e33e912add7851fad",
+        "telephone": "(0756)2285080",
+        "detail": 1,
+        "uid": "96ad828e33e912add7851fad",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56783126205,
+                "lat": 22.274915168635
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=96ad828e33e912add7851fad&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "5.0",
+            "comment_num": "4",
+            "shop_hours": "10:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "艺轩琴行",
+        "location": {
+            "lat": 22.38603,
+            "lng": 113.552777
+        },
+        "address": "广东省珠海市香洲区下栅正一街16号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "760d74c5b54f387d42e192c8",
+        "telephone": "13823006697",
+        "detail": 1,
+        "uid": "760d74c5b54f387d42e192c8",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.55287030703,
+                "lat": 22.386116113207
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=760d74c5b54f387d42e192c8&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "4",
+            "shop_hours": "16:30-22:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "琴友乐器行",
+        "location": {
+            "lat": 22.138514,
+            "lng": 113.347406
+        },
+        "address": "广东省珠海市金湾区南翔路旗景中央园180号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "c96d6214ee513138b5f42fe5",
+        "telephone": "13016322966",
+        "detail": 1,
+        "uid": "c96d6214ee513138b5f42fe5",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.34734957101,
+                "lat": 22.138459661237
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c96d6214ee513138b5f42fe5&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "4",
+            "comment_num": "6",
+            "shop_hours": "09:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "爱练琴行(创业路店)",
+        "location": {
+            "lat": 22.28022,
+            "lng": 113.533866
+        },
+        "address": "广东省珠海市香洲区创业路109号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "4500cb680c63461894ec84cc",
+        "telephone": "13612221286",
+        "detail": 1,
+        "uid": "4500cb680c63461894ec84cc",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53385504467,
+                "lat": 22.280304551503
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=4500cb680c63461894ec84cc&output=html&source=placeapi_v2",
+            "overall_rating": "4.2",
+            "comment_num": "5",
+            "shop_hours": "15:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "爱儿兰琴行旗舰店",
+        "location": {
+            "lat": 22.35763,
+            "lng": 113.615211
+        },
+        "address": "香洲区情侣北路保利西海岸商铺2012-2014号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "15992628008",
+        "detail": 1,
+        "uid": "ab72ff0a51a226288b2fb598",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.61514739645,
+                "lat": 22.357445293137
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ab72ff0a51a226288b2fb598&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "5.0",
+            "comment_num": "0",
+            "shop_hours": "10:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "耶西琴行Jesse Music",
+        "location": {
+            "lat": 22.203514,
+            "lng": 113.302216
+        },
+        "address": "广东省珠海市斗门区10巷5号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13527277309",
+        "detail": 1,
+        "uid": "f9726974b0cd05280782c2b9",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f9726974b0cd05280782c2b9&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "00:00-24:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "春之梦琴行(岱山路店)",
+        "location": {
+            "lat": 22.243984,
+            "lng": 113.518541
+        },
+        "address": "前山岱山路293号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "d792ccc9d935d8e7a8f729fd",
+        "telephone": "(0756)8626918",
+        "detail": 1,
+        "uid": "d792ccc9d935d8e7a8f729fd",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.51853300596,
+                "lat": 22.244000175526
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=d792ccc9d935d8e7a8f729fd&output=html&source=placeapi_v2",
+            "overall_rating": "3.6",
+            "comment_num": "4",
+            "shop_hours": "08:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "艺馨琴行(雄昌花园店)",
+        "location": {
+            "lat": 22.202043,
+            "lng": 113.310899
+        },
+        "address": "江湾中路雄昌花园7号楼首层13号铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "(0756)5111678",
+        "detail": 1,
+        "uid": "161ef25fa01c171aa2d23096",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.31080033538,
+                "lat": 22.202014716725
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=161ef25fa01c171aa2d23096&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "0",
+            "shop_hours": "08:00-21:00",
+            "label": "乐器行",
+            "children": [],
+            "parent_id": "57739647758ae00d0e3dda9e"
+        }
+    },
+    {
+        "name": "卓乐琴行(石花东路店)",
+        "location": {
+            "lat": 22.245908,
+            "lng": 113.585973
+        },
+        "address": "石花东路59号海湾花园东苑",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13318973163",
+        "detail": 1,
+        "uid": "e429aa6ba76c01bdb64f54a4",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.58597353412,
+                "lat": 22.24595072815
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=e429aa6ba76c01bdb64f54a4&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "3",
+            "shop_hours": "10:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "星海琴行",
+        "location": {
+            "lat": 22.235191,
+            "lng": 113.559671
+        },
+        "address": "拱北街道联安路172号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "(0756)8281328,(0756)8812328",
+        "detail": 1,
+        "uid": "7f6d4da1b25fdf7afb2213d9",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.55963138921,
+                "lat": 22.235116762686
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7f6d4da1b25fdf7afb2213d9&output=html&source=placeapi_v2",
+            "overall_rating": "3.8",
+            "shop_hours": "09:30-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "明高琴行",
+        "location": {
+            "lat": 22.227599,
+            "lng": 113.544027
+        },
+        "address": "夏湾华宁花园22栋首层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "7b5fdf22fded8760364aae66",
+        "telephone": "18928082500",
+        "detail": 1,
+        "uid": "7b5fdf22fded8760364aae66",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.54397105026,
+                "lat": 22.227562884323
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7b5fdf22fded8760364aae66&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "0",
+            "shop_hours": "10:30-20:30",
+            "label": "乐器行",
+            "children": [],
+            "parent_id": "71a674fe9ea45108bb17e7de"
+        }
+    },
+    {
+        "name": "新海贝琴行(香洲旗舰店)",
+        "location": {
+            "lat": 22.265382,
+            "lng": 113.556978
+        },
+        "address": "广东省珠海市香洲区柠溪路101号铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "(0756)2292368,13902874373",
+        "detail": 1,
+        "uid": "e2c734e4fa9f444415a19061",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.55704557848,
+                "lat": 22.265328443542
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=e2c734e4fa9f444415a19061&output=html&source=placeapi_v2",
+            "overall_rating": "1",
+            "comment_num": "4",
+            "shop_hours": "09:30-20:30",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "五感琴行",
+        "location": {
+            "lat": 22.274687,
+            "lng": 113.541487
+        },
+        "address": "广东省珠海市香洲区红宝路53号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "7a811cba335e7970c7f02588",
+        "telephone": "18688175454",
+        "detail": 1,
+        "uid": "7a811cba335e7970c7f02588",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.54179417551,
+                "lat": 22.274742739329
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7a811cba335e7970c7f02588&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "10:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "诗韵琴行",
+        "location": {
+            "lat": 22.132911,
+            "lng": 113.378341
+        },
+        "address": "广东省珠海市金湾区依云路保利香槟国际花园10号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "4aae66bbf9f1a6c6a20464c0",
+        "telephone": "13427795468",
+        "detail": 1,
+        "uid": "4aae66bbf9f1a6c6a20464c0",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.37848755102,
+                "lat": 22.132944649918
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=4aae66bbf9f1a6c6a20464c0&output=html&source=placeapi_v2",
+            "shop_hours": "14:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "晓斌琴行(凤凰北路店)",
+        "location": {
+            "lat": 22.286626,
+            "lng": 113.580707
+        },
+        "address": "如意街205商铺晓斌琴行",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13823066818",
+        "detail": 1,
+        "uid": "637e0dcc6784b1a72e473308",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.58080736934,
+                "lat": 22.286652110437
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=637e0dcc6784b1a72e473308&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "shop_hours": "10:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "中大琴行",
+        "location": {
+            "lat": 22.357254,
+            "lng": 113.599252
+        },
+        "address": "广东省珠海市香洲区明园路58号私享家公寓1楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "085ace356d2bb08e15c9051e",
+        "telephone": "18675639234",
+        "detail": 1,
+        "uid": "085ace356d2bb08e15c9051e",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=085ace356d2bb08e15c9051e&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "乐器行",
+            "children": [],
+            "parent_id": "6e3b8197f8d27a48e81e97c7"
+        }
+    },
+    {
+        "name": "龙门乐器",
+        "location": {
+            "lat": 22.381039,
+            "lng": 113.524215
+        },
+        "address": "广东省珠海市香洲区金峰西路金鼎科技工业园唐家湾镇金峰西路23号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "0d1671a12eed93eed12dd670",
+        "telephone": "(0756)3628333",
+        "detail": 1,
+        "uid": "0d1671a12eed93eed12dd670",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.52427528327,
+                "lat": 22.381712953751
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=0d1671a12eed93eed12dd670&output=html&source=placeapi_v2",
+            "overall_rating": "3.0",
+            "shop_hours": "08:30-20:30",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "粤音琴行(夏湾店)",
+        "location": {
+            "lat": 22.237487,
+            "lng": 113.536338
+        },
+        "address": "港昌路418号（海荣新村巴士站）",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "94d0a65c1d29d1f5d6b74e0f",
+        "telephone": "(0756)8534611",
+        "detail": 1,
+        "uid": "94d0a65c1d29d1f5d6b74e0f",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53630255762,
+                "lat": 22.237447196622
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=94d0a65c1d29d1f5d6b74e0f&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "4.5",
+            "comment_num": "11",
+            "shop_hours": "12:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "百灵鸟琴行(康桥分店)",
+        "location": {
+            "lat": 22.0773,
+            "lng": 113.394734
+        },
+        "address": "广东省珠海市金湾区虹阳路新世界康桥3栋109室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "d816e82808832ac93913fd68",
+        "telephone": "13727020399",
+        "detail": 1,
+        "uid": "d816e82808832ac93913fd68",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.3946929864,
+                "lat": 22.077258106685
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=d816e82808832ac93913fd68&output=html&source=placeapi_v2",
+            "shop_hours": "15:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "名爵琴行(粤华店)",
+        "location": {
+            "lat": 22.351793,
+            "lng": 113.549484
+        },
+        "address": "金凤路18号北京师范大学珠海校区粤华苑16栋4556室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "8f6148479b80db07c356ac73",
+        "telephone": "13536574556",
+        "detail": 1,
+        "uid": "8f6148479b80db07c356ac73",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.54943584824,
+                "lat": 22.351559800142
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=8f6148479b80db07c356ac73&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "shop_hours": "09:30-20:00",
+            "label": "乐器行",
+            "children": [],
+            "parent_id": "c4ec66b0dee3e39a28b97c28"
+        }
+    },
+    {
+        "name": "雅马哈钢琴专卖店(新海贝琴行华发商都店)",
+        "location": {
+            "lat": 22.232866,
+            "lng": 113.519458
+        },
+        "address": "珠海市香洲区南屏镇华发社区珠海大道8号南屏华发商都F3",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "fa1ce9cf156c1a3631f71dac",
+        "telephone": "0756-8332281",
+        "detail": 1,
+        "uid": "fa1ce9cf156c1a3631f71dac",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.5198736709,
+                "lat": 22.232466669828
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=fa1ce9cf156c1a3631f71dac&output=html&source=placeapi_v2",
+            "overall_rating": "3.8",
+            "comment_num": "1",
+            "shop_hours": "09:30-21:00",
+            "label": "雅马哈钢琴,摩托车店",
+            "children": [],
+            "parent_id": "05b163dff568037c49fd3f74"
+        }
+    },
+    {
+        "name": "田原琴行",
+        "location": {
+            "lat": 22.277663,
+            "lng": 113.566526
+        },
+        "address": "人民东路银桦新村336号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "cdef4edfc81e604f28d7ab03",
+        "telephone": "(0756)2110585",
+        "detail": 1,
+        "uid": "cdef4edfc81e604f28d7ab03",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56652103466,
+                "lat": 22.277628439888
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=cdef4edfc81e604f28d7ab03&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "1",
+            "shop_hours": "10:30-20:30",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "睿音琴行",
+        "location": {
+            "lat": 22.23087,
+            "lng": 113.307858
+        },
+        "address": "广东省珠海市斗门区连兴路华策岭峰国际",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13697748796",
+        "detail": 1,
+        "uid": "14a1a442c96312de45e27423",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.30774839453,
+                "lat": 22.230784883978
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=14a1a442c96312de45e27423&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "达韵琴行",
+        "location": {
+            "lat": 22.271281,
+            "lng": 113.545802
+        },
+        "address": "广东省珠海市香洲区翠景路382号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "f57db8a9c3318448c2f1cf8d",
+        "telephone": "(0756)2605233",
+        "detail": 1,
+        "uid": "f57db8a9c3318448c2f1cf8d",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.54565710885,
+                "lat": 22.271196537292
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f57db8a9c3318448c2f1cf8d&output=html&source=placeapi_v2",
+            "overall_rating": "3",
+            "comment_num": "6",
+            "shop_hours": "09:00-20:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "笑笑琴行",
+        "location": {
+            "lat": 22.050853,
+            "lng": 113.353422
+        },
+        "address": "珠海市金湾区南涌路嘉富园",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "detail": 1,
+        "uid": "ea91a0454db07d9d616858c8",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.35320416409,
+                "lat": 22.050774729174
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ea91a0454db07d9d616858c8&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海西二琴行",
+        "location": {
+            "lat": 22.284959,
+            "lng": 113.57249
+        },
+        "address": "紫荆路303号水晶堡商业广场2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "edbbbf24efbe7b0a213bf23f",
+        "telephone": "(0756)8111777",
+        "detail": 1,
+        "uid": "edbbbf24efbe7b0a213bf23f",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.57248492479,
+                "lat": 22.285057117388
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=edbbbf24efbe7b0a213bf23f&output=html&source=placeapi_v2",
+            "overall_rating": "3.8",
+            "comment_num": "2",
+            "shop_hours": "13:30-21:30",
+            "label": "琴行",
+            "children": [],
+            "parent_id": "64ff3be11586c1bb90114c79"
+        }
+    },
+    {
+        "name": "脉之博琴行(珠海香洲店)",
+        "location": {
+            "lat": 22.275588,
+            "lng": 113.550694
+        },
+        "address": "广东省珠海市香洲区人民西路120号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "c5691760030bf668734b8760",
+        "detail": 1,
+        "uid": "c5691760030bf668734b8760",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.55070281966,
+                "lat": 22.275537486886
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c5691760030bf668734b8760&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "10:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "雅韵琴行(香华路店)",
+        "location": {
+            "lat": 22.2812,
+            "lng": 113.563546
+        },
+        "address": "香华路18号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "1f9adc5600625c5daecb6698",
+        "telephone": "18928063234",
+        "detail": 1,
+        "uid": "1f9adc5600625c5daecb6698",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56355300322,
+                "lat": 22.281162430074
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1f9adc5600625c5daecb6698&output=html&source=placeapi_v2",
+            "overall_rating": "3.6",
+            "shop_hours": "10:00-22:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "越艺琴行",
+        "location": {
+            "lat": 22.246303,
+            "lng": 113.552269
+        },
+        "address": "海祥园西南门东南60米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "a346593941602290601c67c9",
+        "telephone": "13410412560",
+        "detail": 1,
+        "uid": "a346593941602290601c67c9",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.55215584284,
+                "lat": 22.2462781497
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=a346593941602290601c67c9&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "3",
+            "shop_hours": "15:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "朗译琴行(十二小分店)",
+        "location": {
+            "lat": 22.276135,
+            "lng": 113.538435
+        },
+        "address": "广东省珠海市香洲区昌业路4号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "(0756)2616006",
+        "detail": 1,
+        "uid": "f2f2ca58e7aa8203b42655f1",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53844129502,
+                "lat": 22.276107593938
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f2f2ca58e7aa8203b42655f1&output=html&source=placeapi_v2",
+            "shop_hours": "09:30-24:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "佳音琴行(九洲大道中)",
+        "location": {
+            "lat": 22.24641,
+            "lng": 113.563964
+        },
+        "address": "广东省珠海市香洲区九洲大道中2106号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13798954310",
+        "detail": 1,
+        "uid": "eb3b18eaf2c261c58505bf1c",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56398911503,
+                "lat": 22.246339779099
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=eb3b18eaf2c261c58505bf1c&output=html&source=placeapi_v2",
+            "overall_rating": "3",
+            "comment_num": "1",
+            "shop_hours": "10:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "美韵琴行",
+        "location": {
+            "lat": 22.101095,
+            "lng": 113.188057
+        },
+        "address": "珠海市金湾区美平二街时代港",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "00cf51c13966b8f23517dc68",
+        "telephone": "13672770294",
+        "detail": 1,
+        "uid": "00cf51c13966b8f23517dc68",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.18799546313,
+                "lat": 22.101270735098
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=00cf51c13966b8f23517dc68&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "星汇琴行",
+        "location": {
+            "lat": 22.211392,
+            "lng": 113.301128
+        },
+        "address": "珠海市斗门区环山中路珠海市斗门区实验小学南侧",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13702777575",
+        "detail": 1,
+        "uid": "ac36cb0e1fb8f09d0e3ddacd",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.30104628118,
+                "lat": 22.211558499215
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ac36cb0e1fb8f09d0e3ddacd&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "1号琴行",
+        "location": {
+            "lat": 22.368947,
+            "lng": 113.6055
+        },
+        "address": "香洲区唐家湾镇港湾1号创意云端A栋一层4号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13417780045",
+        "detail": 1,
+        "uid": "09ed48ce27248422f503b895",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=09ed48ce27248422f503b895&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": [],
+            "parent_id": "92e915a2419ef68ebadf8f6b"
+        }
+    },
+    {
+        "name": "升美琴行",
+        "location": {
+            "lat": 22.107211,
+            "lng": 113.190451
+        },
+        "address": "广东省珠海市金湾区平沙二路378号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "f9b7778e5c5f11fa2806cef8",
+        "telephone": "(0756)7755880",
+        "detail": 1,
+        "uid": "f9b7778e5c5f11fa2806cef8",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.19038273715,
+                "lat": 22.107354281211
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f9b7778e5c5f11fa2806cef8&output=html&source=placeapi_v2",
+            "overall_rating": "1.5",
+            "comment_num": "2",
+            "shop_hours": "07:00-18:30",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "派洛斯琴行",
+        "location": {
+            "lat": 22.205079,
+            "lng": 113.306404
+        },
+        "address": "斗门区井岸江湾西二苑(江湾二路南)",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13709698914",
+        "detail": 1,
+        "uid": "280e06b4364adf0129201a7d",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.30639538821,
+                "lat": 22.205097804612
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=280e06b4364adf0129201a7d&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "启雅琴行",
+        "location": {
+            "lat": 22.229171,
+            "lng": 113.547324
+        },
+        "address": "广东省珠海市香洲区华平路129号20栋1楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13417868585",
+        "detail": 1,
+        "uid": "588a7ae653fd52cf8f55ecdb",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.5472824124,
+                "lat": 22.229138466244
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=588a7ae653fd52cf8f55ecdb&output=html&source=placeapi_v2",
+            "shop_hours": "09:10-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "琴益琴行(斗门白蕉金坑中路校区)",
+        "location": {
+            "lat": 22.229513,
+            "lng": 113.313858
+        },
+        "address": "珠海市斗门区白蕉金坑中路19号1栋2单元2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "18675632008",
+        "detail": 1,
+        "uid": "11ff9958c521e76e27e0a0b3",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.31382114955,
+                "lat": 22.229556306281
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=11ff9958c521e76e27e0a0b3&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "07:00-23:30",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "艺点琴行",
+        "location": {
+            "lat": 22.244091,
+            "lng": 113.518928
+        },
+        "address": "广东省珠海市香洲区前河北路荣泰河庭c1区281号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "db10d23e8935ec198505bf5b",
+        "detail": 1,
+        "uid": "db10d23e8935ec198505bf5b",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.51887845341,
+                "lat": 22.244186597408
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=db10d23e8935ec198505bf5b&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "音可琴行",
+        "location": {
+            "lat": 22.284452,
+            "lng": 113.561274
+        },
+        "address": "广东省珠海市香洲区世派街52号1F",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13411396133",
+        "detail": 1,
+        "uid": "3e63134662992432b15c6a2f",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56147593507,
+                "lat": 22.28459006095
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=3e63134662992432b15c6a2f&output=html&source=placeapi_v2",
+            "shop_hours": "15:30-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "雅马哈钢琴(珠海)旗舰体验中心",
+        "location": {
+            "lat": 22.265401,
+            "lng": 113.556982
+        },
+        "address": "珠海市香洲区柠溪路101号鸿泰溪城一楼商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "8c091ef475847da082a12ec8",
+        "telephone": "0756-2292368",
+        "detail": 1,
+        "uid": "8c091ef475847da082a12ec8",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.55698724747,
+                "lat": 22.265259395342
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=8c091ef475847da082a12ec8&output=html&source=placeapi_v2",
+            "overall_rating": "3.8",
+            "comment_num": "5",
+            "shop_hours": "10:00-19:00",
+            "label": "雅马哈钢琴,琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "宝树艺术琴行",
+        "location": {
+            "lat": 22.208141,
+            "lng": 113.342957
+        },
+        "address": "广东省珠海市斗门区白蕉镇白蕉南路金地格林泊乐北1门商铺14号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "18926962467",
+        "detail": 1,
+        "uid": "3afbee9df513cd6d354aae80",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.34306576687,
+                "lat": 22.207887129447
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=3afbee9df513cd6d354aae80&output=html&source=placeapi_v2",
+            "shop_hours": "13:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "越艺琴行",
+        "location": {
+            "lat": 22.289338,
+            "lng": 113.514573
+        },
+        "address": "广东省珠海市香洲区南福路127号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13825605867",
+        "detail": 1,
+        "uid": "9b6c7db59078c3d2aeb22a29",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.51471202329,
+                "lat": 22.289253845537
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=9b6c7db59078c3d2aeb22a29&output=html&source=placeapi_v2",
+            "comment_num": "1",
+            "shop_hours": "15:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "德国博兰斯勒钢琴(珠海)专卖店",
+        "location": {
+            "lat": 22.280907,
+            "lng": 113.544675
+        },
+        "address": "珠海市香洲区市体育中心1号馆",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "(0756)2638868",
+        "detail": 1,
+        "uid": "17886225d78c2484f7e73b89",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.54487942663,
+                "lat": 22.280712280424
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=17886225d78c2484f7e73b89&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "3",
+            "shop_hours": "10:00-21:00",
+            "label": "琴行",
+            "children": [],
+            "parent_id": "50fd932ce8536af21e58003e"
+        }
+    },
+    {
+        "name": "百声琴行(兴业路店)",
+        "location": {
+            "lat": 22.278848,
+            "lng": 113.563677
+        },
+        "address": "广东珠海市香洲区香悦路13号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "46ead8334841cb203310af76",
+        "telephone": "(0756)2268897,13427725609",
+        "detail": 1,
+        "uid": "46ead8334841cb203310af76",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56365098908,
+                "lat": 22.278947163067
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=46ead8334841cb203310af76&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "2",
+            "shop_hours": "09:00-23:30",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "梦创琴社",
+        "location": {
+            "lat": 22.274942,
+            "lng": 113.562046
+        },
+        "address": "广东省珠海市香洲区人民东路兴业路1号48栋1楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "e8e893e570c39324ca291554",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.5622508492,
+                "lat": 22.274917391747
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=e8e893e570c39324ca291554&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "澳门嘉韵琴行(横琴店)",
+        "location": {
+            "lat": 22.14086,
+            "lng": 113.534438
+        },
+        "address": "濠江路1018号247、248商铺（乐购超市楼上）（濠江路北50米）",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "18198795232",
+        "detail": 1,
+        "uid": "8641d7ad5c7782cbc61b7516",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53444080673,
+                "lat": 22.140913227183
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=8641d7ad5c7782cbc61b7516&output=html&source=placeapi_v2",
+            "overall_rating": "3.9",
+            "shop_hours": "15:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "佳艺琴行(香华店)",
+        "location": {
+            "lat": 22.280814,
+            "lng": 113.565121
+        },
+        "address": "广东省珠海市香洲区兴业路52号123栋1层37号铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "(0756)2291608,18128118698",
+        "detail": 1,
+        "uid": "90a32c853bff64ebd72ce2c4",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56510510197,
+                "lat": 22.280950145805
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=90a32c853bff64ebd72ce2c4&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "09:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "博厚琴行",
+        "location": {
+            "lat": 22.257646,
+            "lng": 113.585611
+        },
+        "address": "景乐路36号新华书店内一楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "01ea288ec76fa082dc1e5261",
+        "telephone": "(0756)3363010",
+        "detail": 1,
+        "uid": "01ea288ec76fa082dc1e5261",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.58542633618,
+                "lat": 22.257961381249
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=01ea288ec76fa082dc1e5261&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "3.4",
+            "comment_num": "0",
+            "shop_hours": "09:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "横琴星平商行",
+        "location": {
+            "lat": 22.118053,
+            "lng": 113.555389
+        },
+        "address": "珠海市香洲区宝华路OYO尊享罗曼斯酒店(珠海横琴海洋王国店)西南侧约80米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "48db0c12828e29c8601c67f4",
+        "telephone": "13427742441",
+        "detail": 1,
+        "uid": "48db0c12828e29c8601c67f4",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=48db0c12828e29c8601c67f4&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "0",
+            "shop_hours": "18:00-03:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "偏泽琴行",
+        "location": {
+            "lat": 22.273279,
+            "lng": 113.534369
+        },
+        "address": "珠海市香洲区安富街家和城市风景",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "0d9ba283abeeeb4ea11de9e8",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53437794959,
+                "lat": 22.27322116065
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=0d9ba283abeeeb4ea11de9e8&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "国艺艺琴行",
+        "location": {
+            "lat": 22.267106,
+            "lng": 113.538314
+        },
+        "address": "广东省珠海市香洲区三台石路中珠上城266号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13702941736",
+        "detail": 1,
+        "uid": "b7a099e283d1904c2b11d1ec",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53832303078,
+                "lat": 22.266949679337
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=b7a099e283d1904c2b11d1ec&output=html&source=placeapi_v2",
+            "shop_hours": "09:30-19:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "晓歌琴行(尚都时尚百货尚都商业广场店)",
+        "location": {
+            "lat": 22.287182,
+            "lng": 113.584633
+        },
+        "address": "乐园路宁海花园32号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "bba33fa3ad7f622015c8f6b8",
+        "telephone": "13326648877",
+        "detail": 1,
+        "uid": "bba33fa3ad7f622015c8f6b8",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.58470890386,
+                "lat": 22.286968381549
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=bba33fa3ad7f622015c8f6b8&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "shop_hours": "09:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "流声琴行(中兴南路店)",
+        "location": {
+            "lat": 22.2073,
+            "lng": 113.307433
+        },
+        "address": "广东省珠海市斗门区中兴南路278号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13570641967",
+        "detail": 1,
+        "uid": "052f276de0c5584d04fef5ce",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.30771275019,
+                "lat": 22.207354714464
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=052f276de0c5584d04fef5ce&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "威廉琴行",
+        "location": {
+            "lat": 22.257248,
+            "lng": 113.591098
+        },
+        "address": "广东珠海市香洲区吉大区gi时代广场",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "596e564f28e8afddab0dd8cf",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.59174650264,
+                "lat": 22.257460269325
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=596e564f28e8afddab0dd8cf&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": [],
+            "parent_id": "5b25f4462bbe0df310293516"
+        }
+    },
+    {
+        "name": "筝韵琴行(国子监分店)",
+        "location": {
+            "lat": 22.286484,
+            "lng": 113.581133
+        },
+        "address": "广东省珠海市香洲区如意街30号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "ec0b5abd8ec27decc91b9500",
+        "telephone": "13631264853",
+        "detail": 1,
+        "uid": "ec0b5abd8ec27decc91b9500",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.58120089581,
+                "lat": 22.286368129369
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ec0b5abd8ec27decc91b9500&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "08:00-22:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "传梦进口钢琴城",
+        "location": {
+            "lat": 22.243521,
+            "lng": 113.541806
+        },
+        "address": "广东省珠海市香洲区永安三巷16号3栋503室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "0f4b308809c9a3f528201a51",
+        "telephone": "13527272936",
+        "detail": 1,
+        "uid": "0f4b308809c9a3f528201a51",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.54164148204,
+                "lat": 22.243484255936
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=0f4b308809c9a3f528201a51&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "09:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "艺诺琴行",
+        "location": {
+            "lat": 22.27805,
+            "lng": 113.532099
+        },
+        "address": "新香洲心华路168号银厦广场19栋2楼商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "717dd8c288c3537636b06cca",
+        "telephone": "(0756)2633777",
+        "detail": 1,
+        "uid": "717dd8c288c3537636b06cca",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=717dd8c288c3537636b06cca&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "0",
+            "shop_hours": "09:00-21:00",
+            "label": "琴行",
+            "children": [],
+            "parent_id": "d0cd0fec7ed2cfbf32f71d9c"
+        }
+    },
+    {
+        "name": "荣耀琴行",
+        "location": {
+            "lat": 22.227191,
+            "lng": 113.543501
+        },
+        "address": "广东省珠海市香洲区港昌路233号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "cfb75a61a78f07bd2cb9088c",
+        "telephone": "13326684283",
+        "detail": 1,
+        "uid": "cfb75a61a78f07bd2cb9088c",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.54354773505,
+                "lat": 22.227224770974
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=cfb75a61a78f07bd2cb9088c&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "初音琴行(前山店)",
+        "location": {
+            "lat": 22.251585,
+            "lng": 113.533226
+        },
+        "address": "逸仙路228号3号商铺梅花豪庭",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "d9323eab8a2a33f4b1077daf",
+        "telephone": "13631270410",
+        "detail": 1,
+        "uid": "d9323eab8a2a33f4b1077daf",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53316507158,
+                "lat": 22.251530434335
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=d9323eab8a2a33f4b1077daf&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "3.5",
+            "comment_num": "2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "星愿琴行",
+        "location": {
+            "lat": 22.286002,
+            "lng": 113.560412
+        },
+        "address": "广东省珠海市香洲区书香路14号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "39db22de6801ff9ecf06a452",
+        "telephone": "(0756)2268078",
+        "detail": 1,
+        "uid": "39db22de6801ff9ecf06a452",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56036441438,
+                "lat": 22.285994130241
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=39db22de6801ff9ecf06a452&output=html&source=placeapi_v2",
+            "shop_hours": "09:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "梵音琴行",
+        "location": {
+            "lat": 22.266062,
+            "lng": 113.55864
+        },
+        "address": "珠海市香洲区柠溪路福宁花园",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13553532534,13809238857",
+        "detail": 1,
+        "uid": "9c38bfa7ea28826dfb221330",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.55853280781,
+                "lat": 22.266219873116
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=9c38bfa7ea28826dfb221330&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "海之艺琴行",
+        "location": {
+            "lat": 22.275981,
+            "lng": 113.519129
+        },
+        "address": "凤山街道明珠北路145号棕榈假日回迁房11栋",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13543080387,15018307632",
+        "detail": 1,
+        "uid": "6bc2891b47a14bcde9f853d6",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=6bc2891b47a14bcde9f853d6&output=html&source=placeapi_v2",
+            "shop_hours": "09:00-23:00",
+            "label": "琴行",
+            "children": [],
+            "parent_id": "e6a1b317d5086baf932ca3eb"
+        }
+    },
+    {
+        "name": "艾克森钢琴乐器室",
+        "location": {
+            "lat": 22.255438,
+            "lng": 113.585951
+        },
+        "address": "广东省珠海市香洲区景乐路16号第二工业大厦三楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "45040525f8915d407ab55c7f",
+        "telephone": "18023021287",
+        "detail": 1,
+        "uid": "45040525f8915d407ab55c7f",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.58582854959,
+                "lat": 22.255655693546
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=45040525f8915d407ab55c7f&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "09:00-19:00",
+            "label": "乐器行",
+            "children": [],
+            "parent_id": "f1e97c673287e357eddfca2e"
+        }
+    },
+    {
+        "name": "伟鸣琴行(人民东路店)",
+        "location": {
+            "lat": 22.276025,
+            "lng": 113.581267
+        },
+        "address": "广东省珠海市香洲区人民东路49号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "d423c8ba0de037d42de67b04",
+        "telephone": "13802677114",
+        "detail": 1,
+        "uid": "d423c8ba0de037d42de67b04",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.58120796206,
+                "lat": 22.276163522072
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=d423c8ba0de037d42de67b04&output=html&source=placeapi_v2",
+            "overall_rating": "3.9",
+            "comment_num": "6",
+            "shop_hours": "10:30-20:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "童韵琴行",
+        "location": {
+            "lat": 22.276408,
+            "lng": 113.575699
+        },
+        "address": "广东省珠海市香洲区狮山街道人民东路212号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "6be7e284be8049e3ddee8b7e",
+        "telephone": "13823062828",
+        "detail": 1,
+        "uid": "6be7e284be8049e3ddee8b7e",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.5756789923,
+                "lat": 22.276253949399
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=6be7e284be8049e3ddee8b7e&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "成就未来钢琴中心",
+        "location": {
+            "lat": 22.278072,
+            "lng": 113.564388
+        },
+        "address": "广东省珠海市香洲区兴业路97号3楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13543061998",
+        "detail": 1,
+        "uid": "1c8193613aa1d37559bbbc27",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56447632735,
+                "lat": 22.27808776605
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1c8193613aa1d37559bbbc27&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "10:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "书法钢琴",
+        "location": {
+            "lat": 22.217875,
+            "lng": 113.482613
+        },
+        "address": "珠海市香洲区广生路宝庆府大酒店东北侧约40米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "7d6edcf0a0963a5da2a934dc",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7d6edcf0a0963a5da2a934dc&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "乐凸闽蛹爱和琴行(新香洲店)",
+        "location": {
+            "lat": 22.273288,
+            "lng": 113.534268
+        },
+        "address": "广东省珠海市香洲区人民西路738-20号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "15018339058",
+        "detail": 1,
+        "uid": "5c9631e08dd3b80876e5b61d",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53427982536,
+                "lat": 22.273207865216
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=5c9631e08dd3b80876e5b61d&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "尚音琴行(五洲花城店)",
+        "location": {
+            "lat": 22.285233,
+            "lng": 113.560756
+        },
+        "address": "珠海市香洲区五洲世派街39号2楼(工商银行楼上)",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "08400d12683840c4d42ce274",
+        "detail": 1,
+        "uid": "08400d12683840c4d42ce274",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=08400d12683840c4d42ce274&output=html&source=placeapi_v2",
+            "shop_hours": "09:00-21:00",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "天宝琴行(凤凰北路店)",
+        "location": {
+            "lat": 22.292505,
+            "lng": 113.577825
+        },
+        "address": "广东省珠海市香洲区凤凰北路2099号安广世纪大厦301号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "b57290f1c95339e3c61b75f9",
+        "telephone": "(0756)2111837",
+        "detail": 1,
+        "uid": "b57290f1c95339e3c61b75f9",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.57791979953,
+                "lat": 22.292566606578
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=b57290f1c95339e3c61b75f9&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "乐器行",
+            "children": [],
+            "parent_id": "fbe709f5b429d3249e82eaf0"
+        }
+    },
+    {
+        "name": "798钢琴艺术培训中心(香洲店)",
+        "location": {
+            "lat": 22.28076,
+            "lng": 113.56088
+        },
+        "address": "广东省珠海市香洲区翠香街道香华路79号798",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "5d405bfae05132ef43d63e92",
+        "telephone": "13622960388,13802670388",
+        "detail": 1,
+        "uid": "5d405bfae05132ef43d63e92",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56089654896,
+                "lat": 22.280667604434
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=5d405bfae05132ef43d63e92&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "3",
+            "shop_hours": "10:00-21:00",
+            "label": "钢琴培训",
+            "children": []
+        }
+    },
+    {
+        "name": "花儿琴行",
+        "location": {
+            "lat": 22.166055,
+            "lng": 113.232125
+        },
+        "address": "广东省珠海市斗门区西苑路78号2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13544917762",
+        "detail": 1,
+        "uid": "8b173bfa3857f288eaf8534f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.23226129717,
+                "lat": 22.166132037446
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=8b173bfa3857f288eaf8534f&output=html&source=placeapi_v2",
+            "comment_num": "1",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "浅音钢琴工作室",
+        "location": {
+            "lat": 22.1284,
+            "lng": 113.376165
+        },
+        "address": "广东省珠海市金湾区金城路316号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "60ab45789c96f6a1c2364459",
+        "telephone": "13360778850",
+        "detail": 1,
+        "uid": "60ab45789c96f6a1c2364459",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.37613795325,
+                "lat": 22.128395293749
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=60ab45789c96f6a1c2364459&output=html&source=placeapi_v2",
+            "overall_rating": "3.4",
+            "shop_hours": "09:00-22:00",
+            "label": "钢琴培训",
+            "children": []
+        }
+    },
+    {
+        "name": "圆梦钢琴",
+        "location": {
+            "lat": 22.363413,
+            "lng": 113.602382
+        },
+        "address": "广东省珠海市香洲区山房路16号西60米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13825635893",
+        "detail": 1,
+        "uid": "68233929cf978dea87420e01",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.60228074502,
+                "lat": 22.363267805789
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=68233929cf978dea87420e01&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "钢琴启蒙班",
+        "location": {
+            "lat": 22.267189,
+            "lng": 113.537933
+        },
+        "address": "珠海市香洲区翠仙路中珠上城-1期",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "e173df603ae18fc3b320a8b2",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53793506829,
+                "lat": 22.267133605931
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=e173df603ae18fc3b320a8b2&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "钢琴培训",
+            "children": []
+        }
+    },
+    {
+        "name": "德国钢琴专卖",
+        "location": {
+            "lat": 22.080449,
+            "lng": 113.393724
+        },
+        "address": "珠海市金湾区金岛路山海一品海岸花园",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "8f866ce7ffe694726e20b9b4",
+        "detail": 1,
+        "uid": "8f866ce7ffe694726e20b9b4",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.39376191868,
+                "lat": 22.080410741868
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=8f866ce7ffe694726e20b9b4&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "乐儿钢琴艺术培训中心",
+        "location": {
+            "lat": 22.27024,
+            "lng": 113.56338
+        },
+        "address": "广东省珠海市香洲区柠溪路280号柠溪市场3层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "631c415781bd691c31f71d22",
+        "telephone": "(0756)2293022",
+        "detail": 1,
+        "uid": "631c415781bd691c31f71d22",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56316208472,
+                "lat": 22.270486939563
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=631c415781bd691c31f71d22&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "09:00-22:00",
+            "label": "钢琴培训",
+            "children": []
+        }
+    },
+    {
+        "name": "钢琴工作室",
+        "location": {
+            "lat": 22.245333,
+            "lng": 113.553088
+        },
+        "address": "珠海市香洲区兰埔路格力·香樟",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "926c609e509418881188249a",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55308344476,
+                "lat": 22.245386097246
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=926c609e509418881188249a&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "采乐筝琴体验店",
+        "location": {
+            "lat": 22.287208,
+            "lng": 113.569127
+        },
+        "address": "广东省珠海市香洲区兴华路108号越兴工业大厦A座1楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "5e201239aaaae3eb7f29bd77",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.5691484279,
+                "lat": 22.28705537719
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=5e201239aaaae3eb7f29bd77&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": [],
+            "parent_id": "edd64ce1968189913fe23179"
+        }
+    },
+    {
+        "name": "美国鲍德温钢琴专卖",
+        "location": {
+            "lat": 22.280716,
+            "lng": 113.560931
+        },
+        "address": "广东省珠海市香洲区香华路74号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "a2b478ba0fb7cf1d26e0a0ee",
+        "telephone": "13802670388",
+        "detail": 1,
+        "uid": "a2b478ba0fb7cf1d26e0a0ee",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.56094269974,
+                "lat": 22.2806748046
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=a2b478ba0fb7cf1d26e0a0ee&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "3",
+            "shop_hours": "",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "刘诗昆钢琴艺术中心(柠溪总店)",
+        "location": {
+            "lat": 22.270909,
+            "lng": 113.564351
+        },
+        "address": "广东省珠海市香洲区柠溪路284号柠溪文化广场3楼3A08（肯德基后门电梯上3楼）",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "(0756)2295523,18666991321",
+        "detail": 1,
+        "uid": "f6c4a6e0e223156d45e27470",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56430033472,
+                "lat": 22.270910035461
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f6c4a6e0e223156d45e27470&output=html&source=placeapi_v2",
+            "price": "100.0",
+            "overall_rating": "3.4",
+            "comment_num": "1",
+            "shop_hours": "10:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "81cb7b429114876fdbeced34"
+        }
+    },
+    {
+        "name": "东洋阿波罗钢琴",
+        "location": {
+            "lat": 22.276016,
+            "lng": 113.581314
+        },
+        "address": "广东省珠海市香洲区人民东路二巷小区",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "752778f3a2f010eeb34c49a2",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.58124498372,
+                "lat": 22.276179337469
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=752778f3a2f010eeb34c49a2&output=html&source=placeapi_v2",
+            "shop_hours": "08:30-20:30",
+            "label": "琴行",
+            "children": [],
+            "parent_id": "4bf1624a519bed84c61b752d"
+        }
+    },
+    {
+        "name": "顺兴商行(横琴店)",
+        "location": {
+            "lat": 22.119098,
+            "lng": 113.556015
+        },
+        "address": "宝中路68号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13642710858",
+        "detail": 1,
+        "uid": "ea4a3dc99287672e4e55476a",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.55606678069,
+                "lat": 22.11926480252
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ea4a3dc99287672e4e55476a&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "1",
+            "shop_hours": "08:00-23:30",
+            "label": "乐器行",
+            "children": []
+        }
+    },
+    {
+        "name": "德国卡米洛钢琴专卖店",
+        "location": {
+            "lat": 22.280212,
+            "lng": 113.533781
+        },
+        "address": "珠海市香洲区创业路金域华府",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "00400af42d826b8c00ff2d03",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "navi_location": {
+                "lng": 113.53376794136,
+                "lat": 22.280290138699
+            },
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=00400af42d826b8c00ff2d03&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "博大青少年艺术培训中心(拱北店)",
+        "location": {
+            "lat": 22.238485,
+            "lng": 113.54295
+        },
+        "address": "广东省珠海市香洲区粤海中路2610号(银石雅园南大门)",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "9f97b1c59562dd1fb64f546d",
+        "telephone": "(0756)8607083",
+        "detail": 1,
+        "uid": "9f97b1c59562dd1fb64f546d",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.54291402424,
+                "lat": 22.238360860574
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=9f97b1c59562dd1fb64f546d&output=html&source=placeapi_v2",
+            "overall_rating": "3.6",
+            "comment_num": "1",
+            "shop_hours": "09:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "341c35de8827f6a7e70738ee"
+        }
+    },
+    {
+        "name": "梦响音乐教育",
+        "location": {
+            "lat": 22.285907,
+            "lng": 113.560234
+        },
+        "address": "广东省珠海市香洲区新香洲五洲花城二期书香路5号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "1c6ba89ab52cd94a4d554742",
+        "detail": 1,
+        "uid": "1c6ba89ab52cd94a4d554742",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56028016724,
+                "lat": 22.285915606686
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1c6ba89ab52cd94a4d554742&output=html&source=placeapi_v2",
+            "shop_hours": "16:00-21:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市横琴广飞通讯器材店",
+        "location": {
+            "lat": 22.12455,
+            "lng": 113.520887
+        },
+        "address": "珠海市香洲区横琴大道亚洲森林公寓东北侧约150米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13411388988",
+        "detail": 1,
+        "uid": "95a4b212522da2c14e2fdf71",
+        "detail_info": {
+            "tag": "购物;商铺",
+            "type": "shopping",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=95a4b212522da2c14e2fdf71&output=html&source=placeapi_v2",
+            "shop_hours": "08:30-22:00",
+            "label": "琴行",
+            "children": []
+        }
+    },
+    {
+        "name": "红舞星艺术培训",
+        "location": {
+            "lat": 22.050337,
+            "lng": 113.356529
+        },
+        "address": "广东省珠海市金湾区琴石路636号(原三灶汽车客运站二楼)",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "502eaff1826c162d7bf7965a",
+        "telephone": "15916331088",
+        "detail": 1,
+        "uid": "502eaff1826c162d7bf7965a",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.35651641322,
+                "lat": 22.050463626964
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=502eaff1826c162d7bf7965a&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "10:00-21:00",
+            "label": "培训机构",
+            "children": []
+        }
+    }
+]

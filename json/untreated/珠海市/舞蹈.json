@@ -1,0 +1,1742 @@
+[
+    {
+        "name": "W街区工作室(吉大店)",
+        "location": {
+            "lat": 22.256521,
+            "lng": 113.589869
+        },
+        "address": "广东省珠海市香洲区吉大街道海滨南路9号荣正力邦LOFT文创园a栋6楼6026号（GI时代广场，音乐匣子KTV附近）",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "19820514308",
+        "detail": 1,
+        "uid": "c9b0ef5e00971d372b06ce3d",
+        "detail_info": {
+            "tag": "运动健身;其他",
+            "navi_location": {
+                "lng": 113.58982070571,
+                "lat": 22.256660900154
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c9b0ef5e00971d372b06ce3d&output=html&source=placeapi_v2",
+            "overall_rating": "4.3",
+            "image_num": "2",
+            "comment_num": "3",
+            "shop_hours": "10:30-22:00",
+            "label": "舞蹈",
+            "children": [],
+            "parent_id": "a9922715956fbfea8bb988de"
+        }
+    },
+    {
+        "name": "优学季(AHA亚哈启圆横琴金源国际广场店)",
+        "location": {
+            "lat": 22.135187,
+            "lng": 113.549128
+        },
+        "address": "广东省珠海市香洲区新香江路88号金源国际广场1栋三楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13570665597,13612235995",
+        "detail": 1,
+        "uid": "3b28675a2c39f47777026941",
+        "detail_info": {
+            "tag": "运动健身;其他",
+            "navi_location": {
+                "lng": 113.54912779565,
+                "lat": 22.135069094856
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=3b28675a2c39f47777026941&output=html&source=placeapi_v2",
+            "image_num": "1",
+            "shop_hours": "10:00-22:00",
+            "label": "舞蹈",
+            "children": []
+        }
+    },
+    {
+        "name": "灵子舞蹈全国连锁(香洲百货店)",
+        "location": {
+            "lat": 22.283611,
+            "lng": 113.584468
+        },
+        "address": "广东省珠海市香洲区凤凰南路香洲百货3楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "a1788c565be79c024f6d46c8",
+        "detail_info": {
+            "tag": "运动健身;其他",
+            "navi_location": {
+                "lng": 113.58437344183,
+                "lat": 22.283792341897
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=a1788c565be79c024f6d46c8&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "image_num": "1",
+            "comment_num": "0",
+            "shop_hours": "13:00-21:00",
+            "label": "舞蹈",
+            "children": []
+        }
+    },
+    {
+        "name": "高师芭蕾文化传播中心",
+        "location": {
+            "lat": 22.229037,
+            "lng": 113.529127
+        },
+        "address": "广东省珠海市香洲区前河西路333号8栋负一楼03铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "15918778554",
+        "detail": 1,
+        "uid": "649d000638cc623608ccdd7e",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.52892806943,
+                "lat": 22.228956261222
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=649d000638cc623608ccdd7e&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-11:00,17:00-20:00",
+            "label": "舞蹈",
+            "children": []
+        }
+    },
+    {
+        "name": "官官舞蹈俱乐部",
+        "location": {
+            "lat": 22.160577,
+            "lng": 113.371647
+        },
+        "address": "广东省珠海市斗门区白藤二路新俊湖苑西侧约110米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "40339ca7c8def2be4e554765",
+        "telephone": "13427789146",
+        "detail": 1,
+        "uid": "40339ca7c8def2be4e554765",
+        "detail_info": {
+            "tag": "运动健身;其他",
+            "navi_location": {
+                "lng": 113.37152545286,
+                "lat": 22.160630674821
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=40339ca7c8def2be4e554765&output=html&source=placeapi_v2",
+            "image_num": "10",
+            "shop_hours": "",
+            "label": "舞蹈",
+            "children": []
+        }
+    },
+    {
+        "name": "朱朱舞蹈坊",
+        "location": {
+            "lat": 22.204542,
+            "lng": 113.339556
+        },
+        "address": "广东省珠海市斗门区虹桥三路时代倾城三期G-11区41号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "ed559a1b98e2325f17c8f65f",
+        "telephone": "13160661715",
+        "detail": 1,
+        "uid": "ed559a1b98e2325f17c8f65f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.33954493773,
+                "lat": 22.204499440654
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ed559a1b98e2325f17c8f65f&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "10",
+            "shop_hours": "09:00-21:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "轻舞飞扬舞蹈培训中心(敬业路店)",
+        "location": {
+            "lat": 22.278414,
+            "lng": 113.531071
+        },
+        "address": "广东省珠海市香洲区敬业路146-1号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "7383e692a434597515a190d6",
+        "telephone": "(0756)8613367",
+        "detail": 1,
+        "uid": "7383e692a434597515a190d6",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53097146828,
+                "lat": 22.27840668101
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7383e692a434597515a190d6&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "3.7",
+            "comment_num": "3",
+            "shop_hours": "10:00-20:30",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "3dc9befd99f56616bea24079"
+        }
+    },
+    {
+        "name": "清影舞蹈工作室(前山店)",
+        "location": {
+            "lat": 22.259498,
+            "lng": 113.535899
+        },
+        "address": "广东省珠海市香洲区翠微西路779号（艺术高中公交站）",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "42ae87e1f9a986f215764316",
+        "telephone": "13360610086",
+        "detail": 1,
+        "uid": "42ae87e1f9a986f215764316",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53593703023,
+                "lat": 22.259627719404
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=42ae87e1f9a986f215764316&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "0",
+            "shop_hours": "09:30-22:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "JS流行舞研修中心(井岸旗舰店)",
+        "location": {
+            "lat": 22.216368,
+            "lng": 113.304625
+        },
+        "address": "广东省珠海市斗门区人民路18号南天百货四楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13286000985",
+        "detail": 1,
+        "uid": "1a6badc8c5c0399efda7783f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.30508464724,
+                "lat": 22.216476839313
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1a6badc8c5c0399efda7783f&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "1",
+            "shop_hours": "10:00-22:30",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "水灵子舞蹈培训机构(井岸分校)",
+        "location": {
+            "lat": 22.220027,
+            "lng": 113.303756
+        },
+        "address": "广东省珠海市香洲区中兴中路243号井岸大厦二楼（大信新都汇斜对面）",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "efd6c7d409c05144f7231047",
+        "telephone": "15220902095",
+        "detail": 1,
+        "uid": "efd6c7d409c05144f7231047",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.30361370838,
+                "lat": 22.220384524229
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=efd6c7d409c05144f7231047&output=html&source=placeapi_v2",
+            "overall_rating": "3.4",
+            "comment_num": "2",
+            "shop_hours": "10:00-21:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "0fc2c94741c91d09f82d6179"
+        }
+    },
+    {
+        "name": "华韵舞蹈工作室",
+        "location": {
+            "lat": 22.235659,
+            "lng": 113.54038
+        },
+        "address": "广东省珠海市香洲区港昌路256号3楼301室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13676079585",
+        "detail": 1,
+        "uid": "61f0da9e63f157b01b94c6f2",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=61f0da9e63f157b01b94c6f2&output=html&source=placeapi_v2",
+            "shop_hours": "09:30-21:30",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "杰出舞蹈(人民东路)",
+        "location": {
+            "lat": 22.277852,
+            "lng": 113.564311
+        },
+        "address": "广东省珠海市香洲区人民东路372号2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "844a750e8211e1b96268586c",
+        "telephone": "(0756)2265992",
+        "detail": 1,
+        "uid": "844a750e8211e1b96268586c",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56421486808,
+                "lat": 22.277637110311
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=844a750e8211e1b96268586c&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "2",
+            "shop_hours": "09:30-22:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "雅歌舞蹈艺术学校",
+        "location": {
+            "lat": 22.254042,
+            "lng": 113.574645
+        },
+        "address": "广东省珠海市香洲区白莲路184号立体科技大厦F1 ",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "(0756)3377797",
+        "detail": 1,
+        "uid": "28e700f1df96d101095cb374",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.5746223965,
+                "lat": 22.254029972073
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=28e700f1df96d101095cb374&output=html&source=placeapi_v2",
+            "overall_rating": "0.0",
+            "comment_num": "2",
+            "shop_hours": "10:00-22:00",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "af1ae56b5f8769124207c17c"
+        }
+    },
+    {
+        "name": "在海一方舞蹈培训机构",
+        "location": {
+            "lat": 22.362828,
+            "lng": 113.630978
+        },
+        "address": "广东省珠海市香洲区半岛五路2楼仁恒半岛商业中心2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "(0756)3666703,18125068896",
+        "detail": 1,
+        "uid": "eeeab0bd28d9fe969e9d6800",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=eeeab0bd28d9fe969e9d6800&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "艺昇舞蹈培训中心",
+        "location": {
+            "lat": 22.199979,
+            "lng": 113.303288
+        },
+        "address": "广东省珠海市斗门区井岸镇井湾路113号三友智创谷B座二楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "15977783789",
+        "detail": 1,
+        "uid": "f6fa04a2e1614275f319377f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.30318401925,
+                "lat": 22.199913318401
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f6fa04a2e1614275f319377f&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "820b65438653a84cc91b9527"
+        }
+    },
+    {
+        "name": "娜飞舞蹈",
+        "location": {
+            "lat": 22.238579,
+            "lng": 113.54253
+        },
+        "address": "广东省珠海市香洲区拱北粤海中路2610号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "2ccd2c6a542f989b100daa4f",
+        "telephone": "13620478318",
+        "detail": 1,
+        "uid": "2ccd2c6a542f989b100daa4f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.54250193124,
+                "lat": 22.238489363301
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=2ccd2c6a542f989b100daa4f&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "0",
+            "shop_hours": "09:00-21:30",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "妍舞舞蹈工作室",
+        "location": {
+            "lat": 22.279406,
+            "lng": 113.526967
+        },
+        "address": "珠海市香洲区创业路御景国际",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "fb5679aa589435af08f5eb42",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.52699291573,
+                "lat": 22.279267990886
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=fb5679aa589435af08f5eb42&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "佳美舞蹈艺术培训中心",
+        "location": {
+            "lat": 22.28308,
+            "lng": 113.572911
+        },
+        "address": "广东省珠海市香洲区紫荆路106-130号南夏广场2层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13536553257",
+        "detail": 1,
+        "uid": "6bcbbdce24ce3971631c67d3",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.57288926384,
+                "lat": 22.282691638093
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=6bcbbdce24ce3971631c67d3&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:00",
+            "label": "培训机构",
+            "children": [],
+            "parent_id": "d26f87e8a527d8a115a19079"
+        }
+    },
+    {
+        "name": "塔比鸭舞蹈中心",
+        "location": {
+            "lat": 22.166927,
+            "lng": 113.300758
+        },
+        "address": "珠海市斗门区新青五路南碧水岸西南侧约30米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "e66e8df522d9859d35b06c68",
+        "telephone": "15007561976",
+        "detail": 1,
+        "uid": "e66e8df522d9859d35b06c68",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.30080907883,
+                "lat": 22.167051657523
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=e66e8df522d9859d35b06c68&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "米乐舞蹈艺术中心",
+        "location": {
+            "lat": 22.268654,
+            "lng": 113.533981
+        },
+        "address": "广东省珠海市香洲区翠前北路一街133号苹果派1层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "18923379743",
+        "detail": 1,
+        "uid": "7cb9dd03b3d86ffeadb22ab3",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7cb9dd03b3d86ffeadb22ab3&output=html&source=placeapi_v2",
+            "shop_hours": "09:30-21:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "清扬舞蹈",
+        "location": {
+            "lat": 22.250364,
+            "lng": 113.517612
+        },
+        "address": "广东省珠海市香洲区白云路1号（造贝小学东南门对面）",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "5f5a4a99109f13f131f71dbd",
+        "telephone": "15919161161",
+        "detail": 1,
+        "uid": "5f5a4a99109f13f131f71dbd",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.51759984832,
+                "lat": 22.250379424686
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=5f5a4a99109f13f131f71dbd&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "3",
+            "shop_hours": "08:00-20:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "艺阳舞蹈",
+        "location": {
+            "lat": 22.228379,
+            "lng": 113.2977
+        },
+        "address": "广东省珠海市斗门区朝江路30号美澳园3区1号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "2b0c718ad6d31be1e507381f",
+        "telephone": "(0756)5311777",
+        "detail": 1,
+        "uid": "2b0c718ad6d31be1e507381f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.2978276938,
+                "lat": 22.228216957423
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=2b0c718ad6d31be1e507381f&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "JS流行舞研修中心(井岸旗舰店)",
+        "location": {
+            "lat": 22.216368,
+            "lng": 113.304625
+        },
+        "address": "广东省珠海市斗门区人民路18号南天百货四楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13286000985",
+        "detail": 1,
+        "uid": "1a6badc8c5c0399efda7783f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.30508464724,
+                "lat": 22.216476839313
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1a6badc8c5c0399efda7783f&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "1",
+            "shop_hours": "10:00-22:30",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "红河谷舞蹈艺术中心",
+        "location": {
+            "lat": 22.285304,
+            "lng": 113.540346
+        },
+        "address": "广东省珠海市香洲区梅华西路2100号绿怡居小区78栋",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "detail": 1,
+        "uid": "957ac2cbb4f069cc3f9a5ed0",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.5404047658,
+                "lat": 22.285316219592
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=957ac2cbb4f069cc3f9a5ed0&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "6",
+            "shop_hours": "10:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "世纪舞者芭蕾舞蹈培训中心",
+        "location": {
+            "lat": 22.251212,
+            "lng": 113.52412
+        },
+        "address": "广东省珠海市香洲区金山二巷7号左右创意园2栋1楼25号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13411564973",
+        "detail": 1,
+        "uid": "9541ab916f4a642cd23ce3f0",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.52408669712,
+                "lat": 22.251278676101
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=9541ab916f4a642cd23ce3f0&output=html&source=placeapi_v2",
+            "overall_rating": "4.1",
+            "comment_num": "0",
+            "shop_hours": "10:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "ef0c0908c9c3af2a5b3ac8eb"
+        }
+    },
+    {
+        "name": "新星中英文艺术幼儿园新星舞蹈团(粤海西路)",
+        "location": {
+            "lat": 22.242872,
+            "lng": 113.532377
+        },
+        "address": "广东省珠海市香洲区粤海西路17号明珠山庄小区",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "1d81e90ad167de3a6140a9c3",
+        "telephone": "(0756)8525829",
+        "detail": 1,
+        "uid": "1d81e90ad167de3a6140a9c3",
+        "detail_info": {
+            "tag": "教育培训;其他",
+            "navi_location": {
+                "lng": 113.53248003511,
+                "lat": 22.242965379075
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1d81e90ad167de3a6140a9c3&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "2d86a050f3273514a1a9343c"
+        }
+    },
+    {
+        "name": "A+艺多艺术中心",
+        "location": {
+            "lat": 22.229337,
+            "lng": 113.313856
+        },
+        "address": "广东省珠海市斗门区金坑中路19号东盛百货楼2层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "b82f3b23880b05acdbeced17",
+        "telephone": "(0756)5508066",
+        "detail": 1,
+        "uid": "b82f3b23880b05acdbeced17",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.31379696735,
+                "lat": 22.22927270962
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=b82f3b23880b05acdbeced17&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "水韵舞蹈艺术培训中心",
+        "location": {
+            "lat": 22.379479,
+            "lng": 113.241254
+        },
+        "address": "珠海市斗门区安江路莲溪中学东南侧约60米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "detail": 1,
+        "uid": "365c299a0e05362dc52ba1a1",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.24106504512,
+                "lat": 22.379427967388
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=365c299a0e05362dc52ba1a1&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "艺潼舞蹈",
+        "location": {
+            "lat": 22.311158,
+            "lng": 113.489327
+        },
+        "address": "广东省珠海市香洲区工北街界涌市场",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13113185526",
+        "detail": 1,
+        "uid": "bf39abc86d55338294ec849f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.48940178869,
+                "lat": 22.311320514116
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=bf39abc86d55338294ec849f&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "艺昇舞蹈培训中心",
+        "location": {
+            "lat": 22.199979,
+            "lng": 113.303288
+        },
+        "address": "广东省珠海市斗门区井岸镇井湾路113号三友智创谷B座二楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "15977783789",
+        "detail": 1,
+        "uid": "f6fa04a2e1614275f319377f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.30318401925,
+                "lat": 22.199913318401
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f6fa04a2e1614275f319377f&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "820b65438653a84cc91b9527"
+        }
+    },
+    {
+        "name": "珠海小百合舞蹈",
+        "location": {
+            "lat": 22.389778,
+            "lng": 113.551245
+        },
+        "address": "广东省珠海市香洲区鸿新街69号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "18933204237",
+        "detail": 1,
+        "uid": "05224eeab85d96aa15c9051f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55137444692,
+                "lat": 22.389831196635
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=05224eeab85d96aa15c9051f&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "08:30-21:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "雨轩舞蹈",
+        "location": {
+            "lat": 22.2301,
+            "lng": 113.546823
+        },
+        "address": "广东省珠海市香洲区夏湾路280号春泽名园商铺2层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "(0756)8888778",
+        "detail": 1,
+        "uid": "27028f7f7268acbb23f01731",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=27028f7f7268acbb23f01731&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "冰与火舞蹈(珠海红旗分部)",
+        "location": {
+            "lat": 22.138055,
+            "lng": 113.356463
+        },
+        "address": "广东省珠海市金湾区藤荣路84、86号(澜庭丽舍)",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "telephone": "15307561322",
+        "detail": 1,
+        "uid": "90fd3503460bc003a0a934c8",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.35630874648,
+                "lat": 22.137895762822
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=90fd3503460bc003a0a934c8&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "集美女子塑形健身舞蹈学院",
+        "location": {
+            "lat": 22.125251,
+            "lng": 113.369275
+        },
+        "address": "广东省珠海市金湾区金湾华发国际商务中心D区C2004",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "telephone": "13316665082",
+        "detail": 1,
+        "uid": "d573ae80798f950ec17da205",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.36903069403,
+                "lat": 22.125352016103
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=d573ae80798f950ec17da205&output=html&source=placeapi_v2",
+            "shop_hours": "09:30-20:30",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "金梦园舞蹈艺术培训中心",
+        "location": {
+            "lat": 22.044299,
+            "lng": 113.378868
+        },
+        "address": "广东省珠海市金湾区三灶镇中心村春园路三巷5号首层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "detail": 1,
+        "uid": "1bb572c9c80d8744593ac8b3",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.37884074434,
+                "lat": 22.044384871726
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1bb572c9c80d8744593ac8b3&output=html&source=placeapi_v2",
+            "overall_rating": "0.0",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "多元艺术钢琴舞蹈教育",
+        "location": {
+            "lat": 22.288941,
+            "lng": 113.530748
+        },
+        "address": "珠海市香洲区春晖路春晖市场",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "38fe968fb44f4f47a3acc43e",
+        "telephone": "13322872017",
+        "detail": 1,
+        "uid": "38fe968fb44f4f47a3acc43e",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53079470707,
+                "lat": 22.288986087603
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=38fe968fb44f4f47a3acc43e&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "蕾韵舞蹈艺术中心(万科城店)",
+        "location": {
+            "lat": 22.278073,
+            "lng": 113.510244
+        },
+        "address": "广东省珠海市香洲区云峰路188号万科城商业街（靠云峰小学）",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "15018306090",
+        "detail": 1,
+        "uid": "d078422519192d13f82d617b",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.51021344611,
+                "lat": 22.278118516906
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=d078422519192d13f82d617b&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "1",
+            "shop_hours": "11:00-22:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "培美舞蹈",
+        "location": {
+            "lat": 22.202426,
+            "lng": 113.311655
+        },
+        "address": "广东省珠海市斗门区江湾四路44号210室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "",
+        "telephone": "13138105096",
+        "detail": 1,
+        "uid": "66be0a57f3420fb64afd3f83",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.31164563023,
+                "lat": 22.20246738859
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=66be0a57f3420fb64afd3f83&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "舞蹈培训",
+        "location": {
+            "lat": 22.357636,
+            "lng": 113.605707
+        },
+        "address": "珠海市香洲区银海路唐家人才公寓",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "653196be2a8537fa260bd002",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.60574452735,
+                "lat": 22.357572298661
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=653196be2a8537fa260bd002&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "启雅舞蹈",
+        "location": {
+            "lat": 22.232855,
+            "lng": 113.513834
+        },
+        "address": "珠海市香洲区南湾北路V12文化创意产业园5厂房第2层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13510536141",
+        "detail": 1,
+        "uid": "18dbd8e7e255885f84330411",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.51390156204,
+                "lat": 22.232915224876
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=18dbd8e7e255885f84330411&output=html&source=placeapi_v2",
+            "shop_hours": "08:00-22:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "0c46238438353c0da8059de8"
+        }
+    },
+    {
+        "name": "弥斯舞蹈艺术培训",
+        "location": {
+            "lat": 22.242943,
+            "lng": 113.55386
+        },
+        "address": "广东省珠海市香洲区九洲大道西1059号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13823059755",
+        "detail": 1,
+        "uid": "24afc5a91de94eb004fef555",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55383901244,
+                "lat": 22.243092046263
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=24afc5a91de94eb004fef555&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "shop_hours": "10:00-21:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "微笑天使芭蕾舞蹈",
+        "location": {
+            "lat": 22.243268,
+            "lng": 113.564899
+        },
+        "address": "广东省珠海市香洲区吉大石花西路203号2单元4楼431室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "1424eed46faed477fd0eb0a0",
+        "telephone": "13928075850",
+        "detail": 1,
+        "uid": "1424eed46faed477fd0eb0a0",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1424eed46faed477fd0eb0a0&output=html&source=placeapi_v2",
+            "comment_num": "1",
+            "shop_hours": "00:00-24:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "芯舞艺舞蹈",
+        "location": {
+            "lat": 22.277687,
+            "lng": 113.533536
+        },
+        "address": "广东省珠海市香洲区安富街广富市场二楼3a号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "c5fa64f1aec8350812882498",
+        "telephone": "13823032029",
+        "detail": 1,
+        "uid": "c5fa64f1aec8350812882498",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.5335236673,
+                "lat": 22.277770156958
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c5fa64f1aec8350812882498&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "10:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "764672e590a5f6ad94ec8472"
+        }
+    },
+    {
+        "name": "唱歌跳舞开课啦",
+        "location": {
+            "lat": 22.266255,
+            "lng": 113.559839
+        },
+        "address": "珠海市香洲区香溪路吉宁山庄",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13016382293",
+        "detail": 1,
+        "uid": "52984ccbba052586220262bb",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55978100317,
+                "lat": 22.266306878476
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=52984ccbba052586220262bb&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "范范舞蹈艺术培训中心",
+        "location": {
+            "lat": 22.285021,
+            "lng": 113.582593
+        },
+        "address": "广东省珠海市香洲区凤凰北路1015号丹田广场4楼08室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13326699368",
+        "detail": 1,
+        "uid": "2bec6f047fec4b2688db73d4",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.58266485511,
+                "lat": 22.284925030437
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=2bec6f047fec4b2688db73d4&output=html&source=placeapi_v2",
+            "shop_hours": "11:00-23:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "18165334d4844704fb2d6179"
+        }
+    },
+    {
+        "name": "小公主舞蹈艺术中心(夏湾店)",
+        "location": {
+            "lat": 22.224126,
+            "lng": 113.545445
+        },
+        "address": "广东省珠海市香洲区港昌路119号中铁大厦1楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "2ca4e6603f58b8324afc8dab",
+        "telephone": "13631264056",
+        "detail": 1,
+        "uid": "2ca4e6603f58b8324afc8dab",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.54536717926,
+                "lat": 22.224074272
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=2ca4e6603f58b8324afc8dab&output=html&source=placeapi_v2",
+            "shop_hours": "08:00-23:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "6fddd7fdedb7f97f3517dc7c"
+        }
+    },
+    {
+        "name": "红河谷舞蹈艺术中心",
+        "location": {
+            "lat": 22.251429,
+            "lng": 113.578634
+        },
+        "address": "广东省珠海市香洲区九洲大道中1038号1楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "f0e44e1c948c78edb5f42fe2",
+        "telephone": "15818962258",
+        "detail": 1,
+        "uid": "f0e44e1c948c78edb5f42fe2",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.5786444468,
+                "lat": 22.251363849044
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f0e44e1c948c78edb5f42fe2&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "fd007c5eda6ff16ca8f7297c"
+        }
+    },
+    {
+        "name": "小白桦舞蹈",
+        "location": {
+            "lat": 22.277964,
+            "lng": 113.564385
+        },
+        "address": "广东省珠海市香洲区兴业路97号3楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "c24741e84b9823723310af05",
+        "detail": 1,
+        "uid": "c24741e84b9823723310af05",
+        "detail_info": {
+            "navi_location": {
+                "lng": 113.56449747944,
+                "lat": 22.277984440281
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c24741e84b9823723310af05&output=html&source=placeapi_v2",
+            "overall_rating": "4.5",
+            "image_num": "17",
+            "comment_num": "2",
+            "shop_hours": "10:00-21:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "王雪明星舞蹈艺术中心(夏湾校区)",
+        "location": {
+            "lat": 22.227189,
+            "lng": 113.543496
+        },
+        "address": "广东省珠海市香洲区夏湾路199号朝阳花园2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "5039dda1b7914f3c6140a962",
+        "telephone": "13825647722",
+        "detail": 1,
+        "uid": "5039dda1b7914f3c6140a962",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=5039dda1b7914f3c6140a962&output=html&source=placeapi_v2",
+            "overall_rating": "3.4",
+            "comment_num": "0",
+            "shop_hours": "14:30-20:30",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "街舞培训",
+        "location": {
+            "lat": 22.281842,
+            "lng": 113.57376
+        },
+        "address": "广东省珠海市香洲区南厦商业步行街144号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "cc9bc160699671214d2fdf8c",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.57364245619,
+                "lat": 22.281913159703
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=cc9bc160699671214d2fdf8c&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "TZ舞蹈(金鼎分校)",
+        "location": {
+            "lat": 22.388295,
+            "lng": 113.547577
+        },
+        "address": "广东省珠海市香洲区上栅南街58号2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13226027236",
+        "detail": 1,
+        "uid": "ef4a3ee3dc31dfd200ec018b",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ef4a3ee3dc31dfd200ec018b&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "0",
+            "shop_hours": "09:00-22:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "思傲舞蹈",
+        "location": {
+            "lat": 22.156124,
+            "lng": 113.365463
+        },
+        "address": "广东省珠海市斗门区白藤二路112号康裕花园2栋27号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "fdfe4aa01af546d4ebe58262",
+        "telephone": "(0756)6983301,18675610175",
+        "detail": 1,
+        "uid": "fdfe4aa01af546d4ebe58262",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=fdfe4aa01af546d4ebe58262&output=html&source=placeapi_v2",
+            "shop_hours": "14:00-21:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "JS舞蹈培训",
+        "location": {
+            "lat": 22.240527,
+            "lng": 113.203152
+        },
+        "address": "兴门路南门中央广场二楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "c750cad9dc878cb91ce999ba",
+        "telephone": "15155898333",
+        "detail": 1,
+        "uid": "c750cad9dc878cb91ce999ba",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.20303129996,
+                "lat": 22.240456549107
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c750cad9dc878cb91ce999ba&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "32ffec281cfa7c89354aaec7"
+        }
+    },
+    {
+        "name": "新能量街舞培训基地",
+        "location": {
+            "lat": 22.173944,
+            "lng": 113.314102
+        },
+        "address": "广东省珠海市斗门区里维埃拉商业街二楼206号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "18218338605",
+        "detail": 1,
+        "uid": "672b2f7b04ca74ad5a3ac89e",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=672b2f7b04ca74ad5a3ac89e&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "微舞生活空间·街舞·模特·声乐·影视表演",
+        "location": {
+            "lat": 22.230139,
+            "lng": 113.559829
+        },
+        "address": "广东省珠海市香洲区迎宾南路1144号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "fb57bdb7d81bbe0b8bb988f5",
+        "detail_info": {
+            "tag": "教育培训",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=fb57bdb7d81bbe0b8bb988f5&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "教育培训",
+            "children": []
+        }
+    },
+    {
+        "name": "C X·创星舞蹈(米兰百货广场店)",
+        "location": {
+            "lat": 22.229845,
+            "lng": 113.558388
+        },
+        "address": "珠海市香洲区迎宾南路1099号米兰百货广场二楼B015室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13113431343",
+        "detail": 1,
+        "uid": "b99548a7d503a1d548fc8d6e",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55844850038,
+                "lat": 22.229171844847
+            },
+            "indoor_floor": "F2",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=b99548a7d503a1d548fc8d6e&output=html&source=placeapi_v2",
+            "overall_rating": "3.8",
+            "shop_hours": "10:30-22:00",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "d74cfdab821956539e9d686d"
+        }
+    },
+    {
+        "name": "JS dance(三灶校区)",
+        "location": {
+            "lat": 22.056159,
+            "lng": 113.352862
+        },
+        "address": "珠海市金湾区三灶镇格林豪泰酒店3号电梯6楼JS舞蹈三灶店",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "91fb7915cc39c84a110daa79",
+        "detail": 1,
+        "uid": "91fb7915cc39c84a110daa79",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=91fb7915cc39c84a110daa79&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "牧歌舞蹈艺术中心",
+        "location": {
+            "lat": 22.125309,
+            "lng": 113.375694
+        },
+        "address": "广东省珠海市金湾区博萃街航空新城3-18号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "19d054db10c20b7a593ac84d",
+        "telephone": "13631293099,16626232406",
+        "detail": 1,
+        "uid": "19d054db10c20b7a593ac84d",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.37571317623,
+                "lat": 22.125237014171
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=19d054db10c20b7a593ac84d&output=html&source=placeapi_v2",
+            "shop_hours": "14:00-20:30",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "魏鑫艺术艺茜舞蹈培训中心(平沙店)",
+        "location": {
+            "lat": 22.100539,
+            "lng": 113.188192
+        },
+        "address": "珠海市金湾区美平二街时代港",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "telephone": "18138687220",
+        "detail": 1,
+        "uid": "4e0123e4f3461a829e95de04",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.18798337059,
+                "lat": 22.09985470451
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=4e0123e4f3461a829e95de04&output=html&source=placeapi_v2",
+            "shop_hours": "14:00-20:30",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "舞蹈培训公司",
+        "location": {
+            "lat": 22.230482,
+            "lng": 113.562648
+        },
+        "address": "珠海市香洲区关闸北街金域酒店东南侧",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "869ec25e56753b737069d38f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56292367522,
+                "lat": 22.230341925415
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=869ec25e56753b737069d38f&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "7388dffdeb7894ebd3ff237c"
+        }
+    },
+    {
+        "name": "冰与火舞蹈(唐家分部)",
+        "location": {
+            "lat": 22.366076,
+            "lng": 113.606242
+        },
+        "address": "广东省珠海市香洲区唐淇路3399号唐人街3幢402室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "(0756)3668767",
+        "detail": 1,
+        "uid": "e5014f999af77d220869d941",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.60635802044,
+                "lat": 22.366021947927
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=e5014f999af77d220869d941&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-20:00",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "韵蕾舞蹈培训中心",
+        "location": {
+            "lat": 22.362011,
+            "lng": 113.603951
+        },
+        "address": "广东省珠海市香洲区山房路2~4号信兴楼2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "18675610158",
+        "detail": 1,
+        "uid": "b80d17843102bd42d7851f08",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.60389590434,
+                "lat": 22.361926885369
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=b80d17843102bd42d7851f08&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "舞蹈培训",
+            "children": [],
+            "parent_id": "bbcef1e1af8c49109f09f776"
+        }
+    },
+    {
+        "name": "艺哚舞蹈",
+        "location": {
+            "lat": 22.252003,
+            "lng": 113.5165
+        },
+        "address": "珠海市香洲区教育路珠海市香洲区造贝学校西北侧约40米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "15818998051",
+        "detail": 1,
+        "uid": "af99bcfe04022d9ca8f729d2",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.51641176503,
+                "lat": 22.251832150757
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=af99bcfe04022d9ca8f729d2&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    },
+    {
+        "name": "艺特皇家教育城(春晖校区)",
+        "location": {
+            "lat": 22.288894,
+            "lng": 113.530782
+        },
+        "address": "广东省珠海市香洲区春晖路105号3楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "3af6cd5e89a94abb8936ee9a",
+        "detail": 1,
+        "uid": "3af6cd5e89a94abb8936ee9a",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53083475304,
+                "lat": 22.288949927644
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=3af6cd5e89a94abb8936ee9a&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "0",
+            "comment_num": "0",
+            "shop_hours": "09:00-20:00",
+            "label": "培训机构",
+            "children": [],
+            "parent_id": "6e6f427be257282b26d2bbd1"
+        }
+    },
+    {
+        "name": "佳音艺术培训中心",
+        "location": {
+            "lat": 22.10085,
+            "lng": 113.188383
+        },
+        "address": "广东省珠海市金湾区美平二街时代港1楼147号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "484cf7ccebfe71dac056acec",
+        "telephone": "15323612597",
+        "detail": 1,
+        "uid": "484cf7ccebfe71dac056acec",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.18869437614,
+                "lat": 22.100861397163
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=484cf7ccebfe71dac056acec&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    }
+]

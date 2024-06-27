@@ -3,7 +3,7 @@ import csv
 import time
 import os
 
-def save_to_csv(file_path, data, fieldnames):
+def save_to_csv(file_path, data, fieldnames):  # 保存数据到 CSV 文件
     with open(file_path, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -18,9 +18,9 @@ def save_to_csv(file_path, data, fieldnames):
                 'tag': row.get('detail_info', {}).get('tag', ''),
             })
 
-def baidu_map_search(region, key):
-    apk_key = "IVKytPOUvPgnV1IZIZDHgS0iBtKCndNp"
-    url = "http://api.map.baidu.com/place/v2/search"
+def baidu_map_search(region, key): # 百度地图API查询
+    apk_key = "IVKytPOUvPgnV1IZIZDHgS0iBtKCndNp" # 百度地图API密钥
+    url = "http://api.map.baidu.com/place/v2/search" # 百度地图API地址
 
     all_results = []
     page_num = 0
