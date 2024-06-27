@@ -16,6 +16,7 @@ def save_to_csv(file_path, data, fieldnames):  # 保存数据到 CSV 文件
                 'area': row.get('area', ''),
                 'telephone': row.get('telephone', ''),
                 'tag': row.get('detail_info', {}).get('tag', ''),
+                # 'label': row.get('detail_info', {}).get('label', '')
             })
 
 def baidu_map_search(region, key): # 百度地图API查询
