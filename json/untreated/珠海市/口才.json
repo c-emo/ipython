@@ -1,0 +1,105 @@
+[
+    {
+        "name": "金口乐言少儿戏剧口才(珠海校区)",
+        "location": {
+            "lat": 22.202149,
+            "lng": 113.310611
+        },
+        "address": "广东省珠海市斗门区江湾中路103号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13570698535",
+        "detail": 1,
+        "uid": "2263c1153b3c3f86cb213d2f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.31077433908,
+                "lat": 22.202105176777
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=2263c1153b3c3f86cb213d2f&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "13:30-20:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "言邦少儿口才(即兴口语培训中心)",
+        "location": {
+            "lat": 22.284719,
+            "lng": 113.53984
+        },
+        "address": "广东省珠海市香洲区梅华西路2118号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13825694239",
+        "detail": 1,
+        "uid": "887b1f43bd3b5d52a1a934ec",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=887b1f43bd3b5d52a1a934ec&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-18:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "金话筒口才胆量培训",
+        "location": {
+            "lat": 22.100578,
+            "lng": 113.186467
+        },
+        "address": "广东省珠海市金湾区升平大道中时代港",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "f1c51c9a166abd01b2077d57",
+        "telephone": "18926946580",
+        "detail": 1,
+        "uid": "f1c51c9a166abd01b2077d57",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.18641020973,
+                "lat": 22.100740484969
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f1c51c9a166abd01b2077d57&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "魏鑫艺术艺茜舞蹈培训中心(平沙店)",
+        "location": {
+            "lat": 22.100539,
+            "lng": 113.188192
+        },
+        "address": "珠海市金湾区美平二街时代港",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "telephone": "18138687220",
+        "detail": 1,
+        "uid": "4e0123e4f3461a829e95de04",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.18798337059,
+                "lat": 22.09985470451
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=4e0123e4f3461a829e95de04&output=html&source=placeapi_v2",
+            "shop_hours": "14:00-20:30",
+            "label": "舞蹈培训",
+            "children": []
+        }
+    }
+]

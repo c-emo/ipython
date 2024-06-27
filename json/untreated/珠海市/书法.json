@@ -1,0 +1,1509 @@
+[
+    {
+        "name": "知书书法学院(前山校区)",
+        "location": {
+            "lat": 22.252191,
+            "lng": 113.535056
+        },
+        "address": "广东省珠海市香洲区梅花路77号梅花豪庭东南2门旁",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13726257094",
+        "detail": 1,
+        "uid": "6aca6037c0955fc14bcc4a31",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.535172368,
+                "lat": 22.252126300805
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=6aca6037c0955fc14bcc4a31&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "shop_hours": "09:30-18:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "书道明心书画教育",
+        "location": {
+            "lat": 22.283989,
+            "lng": 113.561395
+        },
+        "address": "广东省珠海市香洲区五洲世派街39号五洲世派街2楼82号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13824136379",
+        "detail": 1,
+        "uid": "08e5a11ed221adbfb3077df1",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56145657756,
+                "lat": 22.283405545362
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=08e5a11ed221adbfb3077df1&output=html&source=placeapi_v2",
+            "overall_rating": "3.5",
+            "comment_num": "2",
+            "shop_hours": "",
+            "label": "美术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "夏加儿美术教育(基地珠海校区)",
+        "location": {
+            "lat": 22.270888,
+            "lng": 113.539031
+        },
+        "address": "广东省珠海市香洲区上华路2号中珠九悦商业中心2楼2015室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "e1709633a2dd118aa4c756be",
+        "detail": 1,
+        "uid": "e1709633a2dd118aa4c756be",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53913172107,
+                "lat": 22.270878223437
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=e1709633a2dd118aa4c756be&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "3.5",
+            "comment_num": "1",
+            "shop_hours": "14:00-21:00",
+            "label": "美术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "珠江书画院",
+        "location": {
+            "lat": 22.234819,
+            "lng": 113.564196
+        },
+        "address": "珠海市香洲区联安路颐清园",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13570621995",
+        "detail": 1,
+        "uid": "939df083d0f23602fe0eb076",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=939df083d0f23602fe0eb076&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "笔悠书法",
+        "location": {
+            "lat": 22.180934,
+            "lng": 113.316618
+        },
+        "address": "广东省珠海市斗门区井岸镇珠峰大道1399号作品一号商业街二栋137号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13672719974",
+        "detail": 1,
+        "uid": "16c731babff46845a4c7564c",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.31681013677,
+                "lat": 22.180811435373
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=16c731babff46845a4c7564c&output=html&source=placeapi_v2",
+            "shop_hours": "15:00-19:00",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "壹诺壹国学书法",
+        "location": {
+            "lat": 22.274714,
+            "lng": 113.540049
+        },
+        "address": "广东省珠海市香洲区康泰街11号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "5f03127347e3bfeda1acc45d",
+        "telephone": "13928085150",
+        "detail": 1,
+        "uid": "5f03127347e3bfeda1acc45d",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.5400318684,
+                "lat": 22.274853257287
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=5f03127347e3bfeda1acc45d&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-18:30",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "艺通书画培训中心",
+        "location": {
+            "lat": 22.272721,
+            "lng": 113.561654
+        },
+        "address": "广东省珠海市香洲区财源道步行街579号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13727068109",
+        "detail": 1,
+        "uid": "1281d53ddda3d5a132870a6f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56190112934,
+                "lat": 22.272651837396
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=1281d53ddda3d5a132870a6f&output=html&source=placeapi_v2",
+            "overall_rating": "0.0",
+            "comment_num": "2",
+            "shop_hours": "09:00-17:30",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "毓秀阁书画艺术中心",
+        "location": {
+            "lat": 22.13332,
+            "lng": 113.373962
+        },
+        "address": "广东省珠海市金湾区金铭路383号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "detail": 1,
+        "uid": "db4475ccc2743c7a283a9fd0",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.37388525488,
+                "lat": 22.133243565209
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=db4475ccc2743c7a283a9fd0&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "德学书法工作室",
+        "location": {
+            "lat": 22.264265,
+            "lng": 113.534411
+        },
+        "address": "珠海市香洲区翠峰路杏花苑",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13326651721",
+        "detail": 1,
+        "uid": "9259a33b3fa7f7eaa21de95f",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53442424808,
+                "lat": 22.264094701735
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=9259a33b3fa7f7eaa21de95f&output=html&source=placeapi_v2",
+            "shop_hours": "09:30-20:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "龙阁书画教育(新香洲校区)",
+        "location": {
+            "lat": 22.276782,
+            "lng": 113.538606
+        },
+        "address": "广东省珠海市香洲区健民路91号26商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "b7e1d7e0f0f93d8081288a32",
+        "telephone": "13543084446",
+        "detail": 1,
+        "uid": "b7e1d7e0f0f93d8081288a32",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53869520992,
+                "lat": 22.276794786966
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=b7e1d7e0f0f93d8081288a32&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "高地美术(新香洲校区)",
+        "location": {
+            "lat": 22.267191,
+            "lng": 113.538527
+        },
+        "address": "广东省珠海市香洲区三台石路221号中珠上城1楼商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "85fcd64d3b5d79f8882fb5cc",
+        "telephone": "(0756)8876168,13318969109",
+        "detail": 1,
+        "uid": "85fcd64d3b5d79f8882fb5cc",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53853024776,
+                "lat": 22.267149472246
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=85fcd64d3b5d79f8882fb5cc&output=html&source=placeapi_v2",
+            "price": "0.0",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "08:30-21:30",
+            "label": "美术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "书法钢琴",
+        "location": {
+            "lat": 22.217875,
+            "lng": 113.482613
+        },
+        "address": "珠海市香洲区广生路宝庆府大酒店东北侧约40米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "7d6edcf0a0963a5da2a934dc",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7d6edcf0a0963a5da2a934dc&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "知书书法学院(侨光校区)",
+        "location": {
+            "lat": 22.224185,
+            "lng": 113.545658
+        },
+        "address": "广东省珠海市香洲区拱北街道港昌路111号中铁大厦一楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "15013307535",
+        "detail": 1,
+        "uid": "5954884d45aa2f5a52e5c58d",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.54572131137,
+                "lat": 22.224229000113
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=5954884d45aa2f5a52e5c58d&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "一品教育习字书法",
+        "location": {
+            "lat": 22.258479,
+            "lng": 113.533551
+        },
+        "address": "广东省珠海市香洲区美晟横街109铺1楼(十中后门)",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "17aebc8a2dbf558ed13ce363",
+        "telephone": "(0756)8613800",
+        "detail": 1,
+        "uid": "17aebc8a2dbf558ed13ce363",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.5335785089,
+                "lat": 22.258656598608
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=17aebc8a2dbf558ed13ce363&output=html&source=placeapi_v2",
+            "overall_rating": "4",
+            "comment_num": "1",
+            "shop_hours": "08:00-21:00",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "恋字格练好字(香山分校)",
+        "location": {
+            "lat": 22.28624,
+            "lng": 113.560395
+        },
+        "address": "广东省珠海市香洲区书香路27号五洲花城二期",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "ce266707d7f76017bc484257",
+        "telephone": "13425060160",
+        "detail": 1,
+        "uid": "ce266707d7f76017bc484257",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56030404827,
+                "lat": 22.28631414742
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ce266707d7f76017bc484257&output=html&source=placeapi_v2",
+            "comment_num": "1",
+            "shop_hours": "",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市香洲区硬笔书法协会",
+        "location": {
+            "lat": 22.289091,
+            "lng": 113.514413
+        },
+        "address": "珠海市香洲区南福路云顶澜山",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "fcb3cff49b6b59a658f6be7c",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.51453447919,
+                "lat": 22.289001024631
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=fcb3cff49b6b59a658f6be7c&output=html&source=placeapi_v2",
+            "image_num": "13",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海汉墨书法(总校区)",
+        "location": {
+            "lat": 22.260045,
+            "lng": 113.524019
+        },
+        "address": "广东省珠海市香洲区明珠南路2007号美和文创公社2楼201号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13680361705",
+        "detail": 1,
+        "uid": "005c2b98337c7323a3acc4c7",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.52404232959,
+                "lat": 22.259825152744
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=005c2b98337c7323a3acc4c7&output=html&source=placeapi_v2",
+            "overall_rating": "3.9",
+            "shop_hours": "08:30-21:00",
+            "label": "培训机构",
+            "children": [],
+            "parent_id": "0077514b53c6d21c09b93a7d"
+        }
+    },
+    {
+        "name": "蒙以养正书法课堂",
+        "location": {
+            "lat": 22.275634,
+            "lng": 113.536705
+        },
+        "address": "广东省珠海市香洲区昌业路57号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13727019193",
+        "detail": 1,
+        "uid": "67d572a1f9a83c91bfa240b2",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=67d572a1f9a83c91bfa240b2&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-21:30",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "七度书法工作室",
+        "location": {
+            "lat": 22.202903,
+            "lng": 113.302666
+        },
+        "address": "珠海市斗门区区间路千禧楼西侧约90米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13168657574",
+        "detail": 1,
+        "uid": "8c81aafb4679c4f5f60e7783",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.30259338694,
+                "lat": 22.20287788119
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=8c81aafb4679c4f5f60e7783&output=html&source=placeapi_v2",
+            "shop_hours": "08:30-18:00",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市书法家协会(教育路)",
+        "location": {
+            "lat": 22.285771,
+            "lng": 113.577837
+        },
+        "address": "珠海市香洲区福寿街建委小区东北侧",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "detail": 1,
+        "uid": "af4affdfd1f9e5f225d2bb71",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.57774374766,
+                "lat": 22.285941446063
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=af4affdfd1f9e5f225d2bb71&output=html&source=placeapi_v2",
+            "image_num": "6",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市书法家协会",
+        "location": {
+            "lat": 22.321222,
+            "lng": 113.608034
+        },
+        "address": "广东省珠海市香洲区唐家湾镇港湾大道珠海市人大书画院",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "detail": 1,
+        "uid": "033409113ca32c88626858af",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.60807153633,
+                "lat": 22.321171029167
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=033409113ca32c88626858af&output=html&source=placeapi_v2",
+            "image_num": "1",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "国韵古筝书法",
+        "location": {
+            "lat": 22.277742,
+            "lng": 113.553925
+        },
+        "address": "广东省珠海市香洲区同华路37号商铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "689c69f0ab057ab176e5b66d",
+        "telephone": "13702311853",
+        "detail": 1,
+        "uid": "689c69f0ab057ab176e5b66d",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55390162847,
+                "lat": 22.277856603909
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=689c69f0ab057ab176e5b66d&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "2",
+            "shop_hours": "10:00-20:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市岭南书画院",
+        "location": {
+            "lat": 22.321084,
+            "lng": 113.608258
+        },
+        "address": "珠海市香洲区港湾大道银泉阁",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "detail": 1,
+        "uid": "612cfae6b2bdc322c929156a",
+        "detail_info": {
+            "tag": "教育培训",
+            "navi_location": {
+                "lng": 113.60816666358,
+                "lat": 22.321231657995
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=612cfae6b2bdc322c929156a&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "教育培训",
+            "children": []
+        }
+    },
+    {
+        "name": "南岳书画",
+        "location": {
+            "lat": 22.274718,
+            "lng": 113.540287
+        },
+        "address": "广东省珠海市香洲区康泰路21号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "a3293cd6a2ca3b559d9d68bf",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.54023731642,
+                "lat": 22.274875850844
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=a3293cd6a2ca3b559d9d68bf&output=html&source=placeapi_v2",
+            "comment_num": "1",
+            "shop_hours": "09:00-21:00",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "美术书法",
+        "location": {
+            "lat": 22.277689,
+            "lng": 113.509705
+        },
+        "address": "珠海市香洲区扣扉路TOD万科城",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "88d56e5ace6d14a4f503b8bd",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=88d56e5ace6d14a4f503b8bd&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "墨趣园书画教育",
+        "location": {
+            "lat": 22.273402,
+            "lng": 113.561249
+        },
+        "address": "广东省珠海市香洲区财源道625号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13676069808",
+        "detail": 1,
+        "uid": "87f3d4e1e0fdd377b6f42f0d",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56141840509,
+                "lat": 22.273481906796
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=87f3d4e1e0fdd377b6f42f0d&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "3",
+            "shop_hours": "08:00-22:00",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海逸轩小筑书画艺术馆",
+        "location": {
+            "lat": 22.26623,
+            "lng": 113.537486
+        },
+        "address": "广东省珠海市香洲区翠仙街19号正方商业广场2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "03401f8c8bd64e350f0a7036",
+        "detail": 1,
+        "uid": "03401f8c8bd64e350f0a7036",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=03401f8c8bd64e350f0a7036&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "12455b822695dc7bc7f50d69"
+        }
+    },
+    {
+        "name": "南岳视觉书画培训",
+        "location": {
+            "lat": 22.280538,
+            "lng": 113.541967
+        },
+        "address": "广东省珠海市香洲区红山路163号体育中心里面一号馆北侧",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "7b34409db4e136f22eb96d3c",
+        "detail": 1,
+        "uid": "7b34409db4e136f22eb96d3c",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.54192347724,
+                "lat": 22.280694027285
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=7b34409db4e136f22eb96d3c&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "0",
+            "shop_hours": "",
+            "label": "美术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "QINCHAO乐器舞蹈书画(万和店)",
+        "location": {
+            "lat": 22.274276,
+            "lng": 113.553347
+        },
+        "address": "珠海市香洲区南虹二街泰然小区",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "(0756)2619028",
+        "detail": 1,
+        "uid": "9fd2066cc2a4df013517dc81",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.55330852479,
+                "lat": 22.27453465659
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=9fd2066cc2a4df013517dc81&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海禾草堂书画艺术工作室",
+        "location": {
+            "lat": 22.258989,
+            "lng": 113.52805
+        },
+        "address": "珠海市香洲区前山豪景花园16栋104室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "f8bd36ca7b940efbf6b916ff",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f8bd36ca7b940efbf6b916ff&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": [],
+            "parent_id": "dd66d05513dca88ddf1e52c0"
+        }
+    },
+    {
+        "name": "楚陵轩钟思中书法",
+        "location": {
+            "lat": 22.259635,
+            "lng": 113.581392
+        },
+        "address": "广东珠海市香洲区白莲路16号3楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "a6e64383222414d3d7851fb8",
+        "telephone": "13411392615,13709688946",
+        "detail": 1,
+        "uid": "a6e64383222414d3d7851fb8",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=a6e64383222414d3d7851fb8&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "方圆四点书法教育",
+        "location": {
+            "lat": 22.286615,
+            "lng": 113.58073
+        },
+        "address": "珠海市香洲区如意街国子间西侧",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "657bfe271c60184422022097",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=657bfe271c60184422022097&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "松林书法社",
+        "location": {
+            "lat": 22.245045,
+            "lng": 113.520549
+        },
+        "address": "广东省珠海市香洲区岱山路231号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "15018331016",
+        "detail": 1,
+        "uid": "cd1369bf26992be7c4f50d4d",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.52053306807,
+                "lat": 22.245074749895
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=cd1369bf26992be7c4f50d4d&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "文心书法",
+        "location": {
+            "lat": 22.286157,
+            "lng": 113.580476
+        },
+        "address": "珠海市香洲区吉祥街吉祥苑小区西侧",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "13160672601",
+        "detail": 1,
+        "uid": "c0171d11b13afa98f4e73ba1",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.58060445163,
+                "lat": 22.286035259859
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c0171d11b13afa98f4e73ba1&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "墨园书法教育",
+        "location": {
+            "lat": 22.262569,
+            "lng": 113.560287
+        },
+        "address": "广东省珠海市香洲区富柠街第十小学东北侧约40米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "fa5ad24bfb3a10d12b06cefd",
+        "telephone": "18928099100",
+        "detail": 1,
+        "uid": "fa5ad24bfb3a10d12b06cefd",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.56016108887,
+                "lat": 22.262588043196
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=fa5ad24bfb3a10d12b06cefd&output=html&source=placeapi_v2",
+            "shop_hours": "09:30-21:30",
+            "label": "培训机构",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海高栏港经济区书画协会",
+        "location": {
+            "lat": 22.110204,
+            "lng": 113.197348
+        },
+        "address": "珠海市金湾区平沙一路怡泰家园西北侧约60米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "detail": 1,
+        "uid": "521972e853d5f4d97369d355",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.19737464091,
+                "lat": 22.110025477761
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=521972e853d5f4d97369d355&output=html&source=placeapi_v2",
+            "image_num": "1",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "两岸四地华夏文化促进会-书画艺术交流中心",
+        "location": {
+            "lat": 22.295768,
+            "lng": 113.582447
+        },
+        "address": "广东省珠海市香洲区沿河东路29号碧涛大厦2楼",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "detail": 1,
+        "uid": "e8f1f86d3966dd4e3fe231ca",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=e8f1f86d3966dd4e3fe231ca&output=html&source=placeapi_v2",
+            "image_num": "1",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": [],
+            "parent_id": "6da66fbf5055a82007fef55c"
+        }
+    },
+    {
+        "name": "珠海市香洲区硬笔书法协会",
+        "location": {
+            "lat": 22.263218,
+            "lng": 113.559693
+        },
+        "address": "珠海市香洲区富柠街金溪花园",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "3ae7b749c5449621bd484263",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.55988820654,
+                "lat": 22.263424544522
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=3ae7b749c5449621bd484263&output=html&source=placeapi_v2",
+            "image_num": "1",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市硬笔书法协会",
+        "location": {
+            "lat": 22.251412,
+            "lng": 113.5241
+        },
+        "address": "广东省珠海市香洲区金山二巷12号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "0bc5c44ffe590f6dcd04ef15",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.52415164475,
+                "lat": 22.251312812427
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=0bc5c44ffe590f6dcd04ef15&output=html&source=placeapi_v2",
+            "image_num": "2",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市书法家协会联络站",
+        "location": {
+            "lat": 22.285946,
+            "lng": 113.57746
+        },
+        "address": "广东省珠海市香洲区教育路38号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "2bfb05e7ac62465537b06cea",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.57753247363,
+                "lat": 22.285828150097
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=2bfb05e7ac62465537b06cea&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市书法家协会(翠香路)",
+        "location": {
+            "lat": 22.290687,
+            "lng": 113.582827
+        },
+        "address": "珠海市香洲区翠香路碧涛花园南侧约40米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "22ca07d81df74123d12dd606",
+        "detail": 1,
+        "uid": "22ca07d81df74123d12dd606",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.58285866143,
+                "lat": 22.290636880281
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=22ca07d81df74123d12dd606&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市斗门区美术书法协会",
+        "location": {
+            "lat": 22.215972,
+            "lng": 113.296533
+        },
+        "address": "珠海市斗门区港霞西路49号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "street_id": "",
+        "detail": 1,
+        "uid": "78267b6181496a18a6c75638",
+        "detail_info": {
+            "tag": "政府机构;社会团体",
+            "navi_location": {
+                "lng": 113.2965218914,
+                "lat": 22.215913561247
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=78267b6181496a18a6c75638&output=html&source=placeapi_v2",
+            "image_num": "1",
+            "shop_hours": "",
+            "label": "社会团体",
+            "children": []
+        }
+    },
+    {
+        "name": "仁艺花书画装裱店",
+        "location": {
+            "lat": 22.259978,
+            "lng": 113.524583
+        },
+        "address": "广东省珠海市香洲区前山南路2021号泰峰文博古玩城1楼9号店",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "15218260480,15919190415",
+        "detail": 1,
+        "uid": "009b1019ea56cd812811d1ee",
+        "detail_info": {
+            "tag": "生活服务",
+            "navi_location": {
+                "lng": 113.52438706781,
+                "lat": 22.259950845237
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=009b1019ea56cd812811d1ee&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "image_num": "13",
+            "comment_num": "4",
+            "shop_hours": "08:00-20:00",
+            "label": "生活服务",
+            "children": []
+        }
+    },
+    {
+        "name": "宽堂书画",
+        "location": {
+            "lat": 22.25715,
+            "lng": 113.582321
+        },
+        "address": "景山路105号新天地大厦3层",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "73b794689ce7f2c43b221c68",
+        "detail_info": {
+            "navi_location": {
+                "lng": 113.58270829079,
+                "lat": 22.257544606059
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=73b794689ce7f2c43b221c68&output=html&source=placeapi_v2",
+            "shop_hours": "08:00-20:30",
+            "label": "",
+            "children": [],
+            "parent_id": "e116be54338d377bc91b957c"
+        }
+    },
+    {
+        "name": "点墨书画院",
+        "location": {
+            "lat": 22.280188,
+            "lng": 113.533646
+        },
+        "address": "广东省珠海市香洲区创业路123号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "753c1dbc01fadd44d418b798",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.53363278263,
+                "lat": 22.280269036698
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=753c1dbc01fadd44d418b798&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "高地美术(南屏校区)",
+        "location": {
+            "lat": 22.228987,
+            "lng": 113.526131
+        },
+        "address": "广东省珠海市香洲区仙桥路南湾国际商业街2楼243~244号(禧贵人旁)",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "451ab12f3429913982288a90",
+        "telephone": "13318969109",
+        "detail": 1,
+        "uid": "451ab12f3429913982288a90",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.52600243027,
+                "lat": 22.228707997034
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=451ab12f3429913982288a90&output=html&source=placeapi_v2",
+            "overall_rating": "5",
+            "comment_num": "1",
+            "shop_hours": "",
+            "label": "美术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "珠海市时代书画院",
+        "location": {
+            "lat": 22.246656,
+            "lng": 113.592678
+        },
+        "address": "珠海市香洲区情侣南路九洲花园南侧",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "detail": 1,
+        "uid": "66b5a7e8d4685faf9f09f765",
+        "detail_info": {
+            "navi_location": {
+                "lng": 113.59254210499,
+                "lat": 22.246413956476
+            },
+            "type": "life",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=66b5a7e8d4685faf9f09f765&output=html&source=placeapi_v2",
+            "image_num": "3",
+            "shop_hours": "",
+            "label": "",
+            "children": []
+        }
+    },
+    {
+        "name": "高地美术(凤凰北校区)",
+        "location": {
+            "lat": 22.288184,
+            "lng": 113.581375
+        },
+        "address": "广东省珠海市香洲区凤凰北路1098",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "(0756)2126168",
+        "detail": 1,
+        "uid": "ce4d6ae080f289b288fc066a",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.5813963845,
+                "lat": 22.287953042081
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ce4d6ae080f289b288fc066a&output=html&source=placeapi_v2",
+            "shop_hours": "08:30-20:30",
+            "label": "美术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "童学书院",
+        "location": {
+            "lat": 22.168662,
+            "lng": 113.235418
+        },
+        "address": "珠海市斗门区环东南路乾东幼儿园东北侧约210米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13727042883",
+        "detail": 1,
+        "uid": "37bc4a5a9107ec94eaf85314",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=37bc4a5a9107ec94eaf85314&output=html&source=placeapi_v2",
+            "overall_rating": "0",
+            "comment_num": "1",
+            "shop_hours": "",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "童绘书画",
+        "location": {
+            "lat": 22.289276,
+            "lng": 113.514532
+        },
+        "address": "广东省珠海市香洲区南福路125号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "telephone": "18675620691",
+        "detail": 1,
+        "uid": "19ad97f215348c6ee5e965a3",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.5146731255,
+                "lat": 22.289190449167
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=19ad97f215348c6ee5e965a3&output=html&source=placeapi_v2",
+            "shop_hours": "09:00-18:30",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "翰墨缘学生服务部",
+        "location": {
+            "lat": 22.215397,
+            "lng": 113.290357
+        },
+        "address": "广东省珠海市斗门区港霞西路394号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "detail": 1,
+        "uid": "692ca5347c8fe85246572682",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.29038864423,
+                "lat": 22.215274356414
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=692ca5347c8fe85246572682&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "启元格练字",
+        "location": {
+            "lat": 22.140108,
+            "lng": 113.354568
+        },
+        "address": "珠海市金湾区华兴路世纪名城-1期",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "telephone": "13536571887",
+        "detail": 1,
+        "uid": "0659399f3ac39ffcf4eafc01",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.35433189521,
+                "lat": 22.139851821594
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=0659399f3ac39ffcf4eafc01&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "中宫格5天练好字",
+        "location": {
+            "lat": 22.243349,
+            "lng": 113.565108
+        },
+        "address": "广东省珠海市香洲区石花西路203号4楼411室",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "73fac25164c8f4f813293528",
+        "telephone": "17676467389",
+        "detail": 1,
+        "uid": "73fac25164c8f4f813293528",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=73fac25164c8f4f813293528&output=html&source=placeapi_v2",
+            "shop_hours": "09:00-21:00",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "皇家艺术",
+        "location": {
+            "lat": 22.132522,
+            "lng": 113.377395
+        },
+        "address": "广东省珠海市金湾区依云路保利香槟国际54号铺",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "",
+        "telephone": "17666006888",
+        "detail": 1,
+        "uid": "f288773d488417a841d63e84",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.37741266186,
+                "lat": 22.132453564306
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=f288773d488417a841d63e84&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "兴趣艺术培训",
+            "children": []
+        }
+    },
+    {
+        "name": "童年译赞",
+        "location": {
+            "lat": 22.263913,
+            "lng": 113.536241
+        },
+        "address": "广东省珠海市香洲区翠福路63号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "香洲区",
+        "street_id": "",
+        "telephone": "13427796811",
+        "detail": 1,
+        "uid": "c93555ad000ef75cf21937e2",
+        "detail_info": {
+            "tag": "教育培训",
+            "navi_location": {
+                "lng": 113.53644757642,
+                "lat": 22.263955397092
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=c93555ad000ef75cf21937e2&output=html&source=placeapi_v2",
+            "shop_hours": "07:30-20:00",
+            "label": "教育培训",
+            "children": []
+        }
+    },
+    {
+        "name": "岭南书画棋培育",
+        "location": {
+            "lat": 22.200106,
+            "lng": 113.300203
+        },
+        "address": "珠海市斗门区红兴路斗门坭湾水果批发市场西南侧约90米",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "斗门区",
+        "telephone": "13727898838",
+        "detail": 1,
+        "uid": "ea8302274ccf1b6845e27406",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.30026074304,
+                "lat": 22.199958496967
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=ea8302274ccf1b6845e27406&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "书法培训",
+            "children": []
+        }
+    },
+    {
+        "name": "吴老师书画工作室",
+        "location": {
+            "lat": 22.055785,
+            "lng": 113.353055
+        },
+        "address": "珠海市金湾区伟民路实发新村",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "telephone": "15015931366",
+        "detail": 1,
+        "uid": "2ab4fd15cb55ac783a13fd21",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.35303872891,
+                "lat": 22.05582061191
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=2ab4fd15cb55ac783a13fd21&output=html&source=placeapi_v2",
+            "shop_hours": "",
+            "label": "书法培训",
+            "children": [],
+            "parent_id": "af1ae56b5f9a69124207c16b"
+        }
+    },
+    {
+        "name": "优之帮托管中心",
+        "location": {
+            "lat": 22.106621,
+            "lng": 113.193358
+        },
+        "address": "广东省珠海市金湾区梅花路21号",
+        "province": "广东省",
+        "city": "珠海市",
+        "area": "金湾区",
+        "street_id": "",
+        "telephone": "15976976139",
+        "detail": 1,
+        "uid": "bd7a16e98a28fbc9be484298",
+        "detail_info": {
+            "tag": "教育培训;培训机构",
+            "navi_location": {
+                "lng": 113.19323297159,
+                "lat": 22.106618272162
+            },
+            "type": "education",
+            "detail_url": "http://api.map.baidu.com/place/detail?uid=bd7a16e98a28fbc9be484298&output=html&source=placeapi_v2",
+            "shop_hours": "10:00-22:00",
+            "label": "培训机构",
+            "children": []
+        }
+    }
+]
