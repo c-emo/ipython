@@ -54,7 +54,7 @@ def save_results_to_json(base_dir, region, key, results):
         json.dump(results, f, ensure_ascii=False, indent=4)
 
 if __name__ == '__main__':
-    base_dir = "json/untreated"  # 修改为实际的根目录路径
+    base_dir = "百度/json/untreated"  # 修改为实际的根目录路径
     regions = ["珠海市"]  # 要查询的城市
     keys = ["舞蹈", "钢琴", "古筝", "美术", "书法", "口才"]  # 要查询的多个关键字
     

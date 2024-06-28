@@ -76,8 +76,8 @@ def process_all_cities(input_base_dir, output_base_dir, processed_base_dir): # �
             process_city_directory(city_dir, output_base_dir, processed_base_dir) # 处理城市目录
 
 if __name__ == '__main__':
-    input_base_dir = "json/untreated"  # 修改为实际的未处理文件夹路径
-    output_base_dir = "exl_file/json"    # 修改为实际的输出文件夹路径
-    processed_base_dir = "json/processed"  # 修改为实际的已处理文件夹路径
+    input_base_dir = "百度/json/untreated"  # 修改为实际的未处理文件夹路径
+    output_base_dir = "百度/exl_file/json"    # 修改为实际的输出文件夹路径
+    processed_base_dir = "百度/json/processed"  # 修改为实际的已处理文件夹路径
     # 调用方法遍历文件处理csv data
     process_all_cities(input_base_dir, output_base_dir, processed_base_dir)
