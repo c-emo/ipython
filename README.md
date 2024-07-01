@@ -35,4 +35,4 @@
       1.git pull  # 拉取最新代码
       2.git add . # 添加所有文件
       3.git commit -m "提交信息" # 提交代码
-      4.git push origin 分支名 # 推送到远程仓库
+      4.git push # 推送到远程仓库
