@@ -23,3 +23,7 @@
     3）git add .
     4）git commit -m "提交信息"
     5）git push -u origin mian
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=krillinai/KrillinAI&type=Date)](https://www.star-history.com/#krillinai/KrillinAI&Date)
