@@ -26,4 +26,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ipython&type=Date)](https://www.star-history.com/#ipython&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=c-emo/ipython&type=Date)](https://www.star-history.com/#c-emo/ipython&Date)
